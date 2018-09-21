@@ -10,7 +10,7 @@ title: Daniel Sprockett
 email: daniel.sprockett@gmail.com
 description: Microbiology & Immunology PhD Student at the Stanford School of Medicine
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://danielsprockett.github.io/" # the base hostname & protocol for your site
 twitter_username: danielsprockett
 github_username:  danielsprockett
 paginate: 5
