@@ -4,7 +4,7 @@ title : About
 permalink: /about/
 ---
 
-![Dan](/images/daniel_sprockett.jpg)
+![Dan](/images/about_headshot.gif)
 
 
 <h2>Daniel Sprockett</h2>
