@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Test Post Number 2"
+date:   2018-09-22 9:00:00 +0530
+categories: ["science", "microbiome"]
+author: "Dan"
+---
+
+Now I'm adding a second test post. 
