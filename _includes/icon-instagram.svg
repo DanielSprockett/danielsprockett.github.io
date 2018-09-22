@@ -1,1 +1,20 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>instagram-glyph</title><g id="Instagram"><circle id="back" cx="256" cy="256" r="256" fill="#929292"/><path id="Instagram-2" data-name="Instagram" d="M366.28,233.93h-25a88.22,88.22,0,1,1-170.64,0h-25V355.25a11,11,0,0,0,11,11H355.24a11,11,0,0,0,11-11Zm0-77.19a11,11,0,0,0-11-11H322.17a11,11,0,0,0-11,11v33.09a11,11,0,0,0,11,11h33.07a11,11,0,0,0,11-11ZM256,200.86A55.14,55.14,0,1,0,311.14,256,55.13,55.13,0,0,0,256,200.86m110.28,198.5H145.72a33.09,33.09,0,0,1-33.08-33.09V145.72a33.08,33.08,0,0,1,33.08-33.08H366.28a33.07,33.07,0,0,1,33.08,33.08V366.27a33.08,33.08,0,0,1-33.08,33.09" fill="#fff" fill-rule="evenodd"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 113.4 113.4" enable-background="new 0 0 113.4 113.4" xml:space="preserve">
+<g>
+	<defs>
+		<rect id="SVGID_1_" width="113.4" height="113.4"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<path clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#adadad" d="M100.1,47.9h-9.9
+		c0.7,2.8,1.1,5.7,1.1,8.7c0,19.2-15.6,34.8-34.8,34.8c-19.2,0-34.8-15.6-34.8-34.8c0-3,0.4-5.9,1.1-8.7h-9.9v47.9
+		c0,2.4,2,4.3,4.4,4.3h78.4c2.4,0,4.4-1.9,4.4-4.3V47.9z M100.1,17.4c0-2.4-2-4.4-4.4-4.4H82.7c-2.4,0-4.4,2-4.4,4.4v13.1
+		c0,2.4,1.9,4.4,4.4,4.4h13.1c2.4,0,4.4-2,4.4-4.4V17.4z M56.6,34.8c-12,0-21.8,9.7-21.8,21.8c0,12,9.7,21.8,21.8,21.8
+		s21.8-9.7,21.8-21.8C78.4,44.6,68.6,34.8,56.6,34.8 M100.1,113.2H13.1c-7.2,0-13.1-5.8-13.1-13.1V13.1C0,5.8,5.8,0,13.1,0h87.1
+		c7.2,0,13.1,5.8,13.1,13.1v87.1C113.2,107.3,107.3,113.2,100.1,113.2"/>
+</g>
+</svg>
