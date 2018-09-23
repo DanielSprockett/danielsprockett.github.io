@@ -24,6 +24,7 @@ category: "publications"
   </i>
 Available on <i>bioRxiv</i>.
 </font>
+<br>
 
 <br>
 [<font size="5">
@@ -42,6 +43,7 @@ Available on <i>bioRxiv</i>.
     Nat Rev Gastroenterol Hepatol.
   </i>
 </font>
+<br>
 
 <br>
 [<font size="5">
@@ -62,6 +64,7 @@ Available on <i>bioRxiv</i>.
   </i>
   27(3): 295-298.
 </font>
+<br>
 
 <br>
 [<font size="5">
@@ -72,7 +75,7 @@ Available on <i>bioRxiv</i>.
     </i>
 </font>](https://www.sciencedirect.com/science/article/pii/S0167701216300306)
 <font size="3">
-  Matthew D. Gacura,  
+  Matthew D. Gacura, 
   <b>
     Daniel D. Sprockett
   </b>
@@ -82,11 +85,30 @@ Available on <i>bioRxiv</i>.
   </i>
   123:108-113.
 </font>
+<br>
 
 <br>
-*[Comparison of pectin-degrading fungal communities in temperate forests using glycosyl hydrolase family 28 pectinase primers targeting Ascomycete fungi](https://www.sciencedirect.com/science/article/pii/S0167701216300306)*<br>
-Matthew D. Gacura, **Daniel D. Sprockett**, Bess Heidenreich, and Christopher B.Blackwood (2016) J Microbiol Methods 123:108-113.<br> 
+[<font size="5">
+    <i>
+    <b>
+      The effect of microbial colonization on the host proteome varies by gastrointestinal location
+    </b>
+    </i>
+</font>](https://www.nature.com/articles/ismej2015187/)
+<font size="3">
+  Joshua S Lichtman, Emily Alsentzer, Mia Jaffe, 
+  <b>
+    Daniel Sprockett
+  </b>
+  , Evan Masutani, Elvis Ikwa, Gabriela K Fragiadakis, David Clifford, Bevan Emma Huang, Justin L Sonnenburg, Kerwyn Casey Huang, and Joshua E Elias (2015)
+  <i>
+    ISME J. 
+  </i>
+  10:1170-1181.
+</font>
+<br>
 
+<br>
 *[The effect of microbial colonization on the host proteome varies by gastrointestinal location](https://www.nature.com/articles/ismej2015187/)*<br>
 Joshua S Lichtman, Emily Alsentzer, Mia Jaffe, **Daniel Sprockett**, Evan Masutani, Elvis Ikwa, Gabriela K Fragiadakis, David Clifford, Bevan Emma Huang, Justin L Sonnenburg, Kerwyn Casey Huang, and Joshua E Elias (2015) ISME J 10:1170-1181.<br> 
 
