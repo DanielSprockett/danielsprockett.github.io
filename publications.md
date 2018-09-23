@@ -7,15 +7,13 @@ category: "publications"
 
 <h2>Peer-Reviewed Manuscripts</h2>
 <br>
-[
-  <font size="4">
+[<font size="5">
     <i>
     <b>
       Treatment-Specific Composition of Gut Microbiota Is Associated with Disease Remission in a Pediatric Crohn's Disease Cohort
     </b>
     </i>
-	</font>
-](https://www.biorxiv.org/content/early/2018/09/10/412890)
+</font>](https://www.biorxiv.org/content/early/2018/09/10/412890)
 
 <font size="3">
   <b>
@@ -26,11 +24,9 @@ category: "publications"
     Am J Gastroenterol
   </i>
 . Available on 
-[
-  <i>
+[<i>
     bioRxiv
-  </i>
-](https://www.biorxiv.org/content/early/2018/09/10/412890)</font>
+  </i>](https://www.biorxiv.org/content/early/2018/09/10/412890)</font>
 
 <br>
 
