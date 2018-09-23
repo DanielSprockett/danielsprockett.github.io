@@ -26,7 +26,7 @@ category: "publications"
 . Available on 
 [<i>
     bioRxiv
-  </i>](https://www.biorxiv.org/content/early/2018/09/10/412890)</font>
+</i>](https://www.biorxiv.org/content/early/2018/09/10/412890)</font>
 
 <br>
 
