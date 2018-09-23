@@ -11,7 +11,7 @@ category: "publications"
 <h5>Daniel Sprockett, Natalie Fischer, Rotem Sigall Boneh, Dan Turner, Jarek Kierkus, Malgorzata Sladek, Johanna Escher, Eytan Wine, Baruch Yerushalmi, Jorge Amil Dias, Ron Shaoul, Michal Kori, Scott Snapper, Susan Holmes, Athos Bousvaros, Arie Levine, David A. Relman (2018) Submitted to Am J Gastroenterol.</h5>
 [bioRxiv link](https://www.biorxiv.org/content/early/2018/09/10/412890)<br>
 <br>
-<font size="1">*[Role of priority effects in the early-life assembly of the gut microbiota](https://www.nature.com/articles/nrgastro.2017.173)*<br></font>
+*[<font size="3">Role of priority effects in the early-life assembly of the gut microbiota</font>](https://www.nature.com/articles/nrgastro.2017.173)*<br>
 **Daniel D. Sprockett**, Tadashi Fukami, and David Relman (2018) . Nat Rev Gastroenterol Hepatol.<br>
 
 *[Characterization of the facial microbiome in twins discordant for rosacea](https://onlinelibrary.wiley.com/doi/abs/10.1111/exd.13491)*<br>
