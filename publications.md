@@ -21,16 +21,13 @@ category: "publications"
   </b>
   , Natalie Fischer, Rotem Sigall Boneh, Dan Turner, Jarek Kierkus, Malgorzata Sladek, Johanna Escher, Eytan Wine, Baruch Yerushalmi, Jorge Amil Dias, Ron Shaoul, Michal Kori, Scott Snapper, Susan Holmes, Athos Bousvaros, Arie Levine, David A. Relman (2018) Submitted to 
   <i>
-    Am J Gastroenterol
+    Am J Gastroenterol.
   </i>
-. Available on 
-  [<i>
-    bioRxiv
-  </i>](https://www.biorxiv.org/content/early/2018/09/10/412890)
+Available on [<i>bioRxiv</i>](https://www.biorxiv.org/content/early/2018/09/10/412890)
 </font>
 
 <br>
-test
+test2
 
 [<font size="4">Role of priority effects in the early-life assembly of the gut microbiota</font>](https://www.nature.com/articles/nrgastro.2017.173)*<br>
 <b>Daniel D. Sprockett</b>, Tadashi Fukami, and David Relman (2018) . <i>Nat Rev Gastroenterol Hepatol</i>.<br>
