@@ -14,7 +14,6 @@ category: "publications"
     </b>
     </i>
 </font>](https://www.biorxiv.org/content/early/2018/09/10/412890)
-
 <font size="3">
   <b>
     Daniel Sprockett
@@ -34,7 +33,6 @@ Available on <i>bioRxiv</i>.
     </b>
     </i>
 </font>](https://www.nature.com/articles/nrgastro.2017.173)
-
 <font size="3">
   <b>
     Daniel D. Sprockett
@@ -53,7 +51,6 @@ Available on <i>bioRxiv</i>.
     </b>
     </i>
 </font>](https://onlinelibrary.wiley.com/doi/abs/10.1111/exd.13491)
-
 <font size="3">
   Asifa K. Zaidi, Katrina Spaunhurst, 
   <b>
@@ -66,9 +63,27 @@ Available on <i>bioRxiv</i>.
   27(3): 295-298.
 </font>
 
-*[Characterization of the facial microbiome in twins discordant for rosacea](https://onlinelibrary.wiley.com/doi/abs/10.1111/exd.13491)*<br>
-Asifa K. Zaidi, Katrina Spaunhurst, **Daniel Sprockett**, Yolandas Thomason, Margaret W. Mann, Pingfu Fu, Christine Ammons, Meg Gerstenblith, Marie S. Tuttle, and Daniel L. Popkin (2018) Experimental Dermatology 27(3): 295-298.<br>
+<br>
+[<font size="5">
+    <i>
+    <b>
+      Comparison of pectin-degrading fungal communities in temperate forests using glycosyl hydrolase family 28 pectinase primers targeting Ascomycete fungi
+    </b>
+    </i>
+</font>](https://www.sciencedirect.com/science/article/pii/S0167701216300306)
+<font size="3">
+  Matthew D. Gacura,  
+  <b>
+    Daniel D. Sprockett
+  </b>
+  , Bess Heidenreich, and Christopher B.Blackwood (2016)
+  <i>
+    J Microbiol Methods. 
+  </i>
+  123:108-113.
+</font>
 
+<br>
 *[Comparison of pectin-degrading fungal communities in temperate forests using glycosyl hydrolase family 28 pectinase primers targeting Ascomycete fungi](https://www.sciencedirect.com/science/article/pii/S0167701216300306)*<br>
 Matthew D. Gacura, **Daniel D. Sprockett**, Bess Heidenreich, and Christopher B.Blackwood (2016) J Microbiol Methods 123:108-113.<br> 
 
