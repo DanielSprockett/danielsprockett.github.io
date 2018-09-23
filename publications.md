@@ -41,10 +41,30 @@ Available on <i>bioRxiv</i>.
   </b>
   , Tadashi Fukami, and David Relman (2018)
   <i>
-    Nat Rev Gastroenterol Hepatol
+    Nat Rev Gastroenterol Hepatol.
   </i>
 </font>
 
+<br>
+[<font size="5">
+    <i>
+    <b>
+      Characterization of the facial microbiome in twins discordant for rosacea
+    </b>
+    </i>
+</font>](https://onlinelibrary.wiley.com/doi/abs/10.1111/exd.13491)
+
+<font size="3">
+  Asifa K. Zaidi, Katrina Spaunhurst, 
+  <b>
+    Daniel Sprockett
+  </b>
+  , Yolandas Thomason, Margaret W. Mann, Pingfu Fu, Christine Ammons, Meg Gerstenblith, Marie S. Tuttle, and Daniel L. Popkin (2018)
+  <i>
+    Exp Dermatol. 
+  </i>
+  27(3): 295-298.
+</font>
 
 *[Characterization of the facial microbiome in twins discordant for rosacea](https://onlinelibrary.wiley.com/doi/abs/10.1111/exd.13491)*<br>
 Asifa K. Zaidi, Katrina Spaunhurst, **Daniel Sprockett**, Yolandas Thomason, Margaret W. Mann, Pingfu Fu, Christine Ammons, Meg Gerstenblith, Marie S. Tuttle, and Daniel L. Popkin (2018) Experimental Dermatology 27(3): 295-298.<br>
