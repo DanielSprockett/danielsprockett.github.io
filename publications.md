@@ -7,8 +7,8 @@ category: "publications"
 
 <h2>Peer-Reviewed Manuscripts</h2>
 
-<h3>Treatment-Specific Composition of Gut Microbiota Is Associated with Disease Remission in a Pediatric Crohn's Disease Cohort</h3><br>
-<h5>Daniel Sprockett, Natalie Fischer, Rotem Sigall Boneh, Dan Turner, Jarek Kierkus, Malgorzata Sladek, Johanna Escher, Eytan Wine, Baruch Yerushalmi, Jorge Amil Dias, Ron Shaoul, Michal Kori, Scott Snapper, Susan Holmes, Athos Bousvaros, Arie Levine, David A. Relman (2018) Submitted to Am J Gastroenterol.</h5><br>
+<h4>Treatment-Specific Composition of Gut Microbiota Is Associated with Disease Remission in a Pediatric Crohn's Disease Cohort</h4>
+<h5>Daniel Sprockett, Natalie Fischer, Rotem Sigall Boneh, Dan Turner, Jarek Kierkus, Malgorzata Sladek, Johanna Escher, Eytan Wine, Baruch Yerushalmi, Jorge Amil Dias, Ron Shaoul, Michal Kori, Scott Snapper, Susan Holmes, Athos Bousvaros, Arie Levine, David A. Relman (2018) Submitted to Am J Gastroenterol.</h5>
 [bioRxiv link](https://www.biorxiv.org/content/early/2018/09/10/412890)<br>
 <br>
 *[Role of priority effects in the early-life assembly of the gut microbiota](https://www.nature.com/articles/nrgastro.2017.173)*<br>
