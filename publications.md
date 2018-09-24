@@ -171,7 +171,7 @@ Available on <i>bioRxiv</i>.
 
 
 <h2>Scientific Writing for the General Public</h2>
-<font size="5">I've also written about science for a general audience from time to time. Check out some of my favorite articles below.</font>
+<font size="5">from time to time, I've also written about science for a general audience. Check out some of my favorite articles below.</font>
 
 <br>
 
@@ -181,7 +181,7 @@ Available on <i>bioRxiv</i>.
     </b>
 </font>](https://medium.com/gut-check)
 <font size="3">
-  I wrote a weekly science column for <a href="https://festivalofdangerousideas.com/">The Festival of Dangerious Ideas</a>, a few of which are now hosted on medium.com
+  I wrote a weekly science column for <a href="https://festivalofdangerousideas.com/">The Festival of Dangerious Ideas</a>, a few of which are now hosted on <i>medium.com</i> (Illustrations by Daniel Gray).
 </font>
 
 <br>
@@ -210,13 +210,81 @@ Available on <i>bioRxiv</i>.
 <font size="4">
   Microbial life is vastly different indoors than out
   <i> Is it time we started designing spaces for microbiology?</i>
-  Why the saying “thinking with your gut” is more accurate than you probably realize.
 </font>
 </p>
 <br>
 
+<br>
+[<font size="4">
+    <b>
+      Do Probiotics Work?
+    </b>
+</font>](https://medium.com/gut-check/do-probiotics-work-550fe8cd4834)
+<p>
+<img src="/images/GutCheck_3.png" style="float:right;width:200px;height:100px;">
+<font size="4">
+  The word “probiotic” is as general as the word “drug”, so it kind of depends…
+</font>
+</p>
+<br>
 
+<br>
+[<font size="4">
+    <b>
+      Do these (microbial) genes make me look fat?
+    </b>
+</font>](https://medium.com/gut-check/do-these-microbial-genes-make-me-look-fat-b3d1ea381f52)
+<p>
+<img src="/images/GutCheck_4.png" style="float:right;width:200px;height:100px;">
+<font size="4">
+  What germ-free mice can teach us about gut bacteria and weight.</font>
+</p>
+<br>
 
-[Gut Check!](https://medium.com/gut-check)<br>
+[<font size="6">
+    <b>
+      The Daily Kent Stater
+    </b>
+</font>](http://www.kentwired.com/search/?f=html&q=daniel+sprockett&s=start_time&sd=desc&l=25&t=article%2Ccollection%2Cvideo%2Cyoutube&nsa=eedition)
+<font size="3">
+  I've also written a weekly science column for The Kent State University campus news paper, <a href="http://www.kentwired.com/">The Daily Kent Stater</a>. Here are some of my favorite columns, but you can find them all by clicking the link above. 
+</font>
 
-[Weekly Science Columnist](http://www.kentwired.com/search/?f=html&q=daniel+sprockett&s=start_time&sd=desc&l=25&t=article%2Ccollection%2Cvideo%2Cyoutube&nsa=eedition)<br>
+<br>
+[<font size="4">
+    <b>
+      Overcoming the threat of scientific illiteracy
+    </b>
+</font>](http://www.kentwired.com/opinion/article_73dfdc2a-68bf-5c51-a0e5-85b964f60cb5.html)
+<p>
+<img src="/images/KentStater_headshot.jpg" style="float:right;width:150px;height:100px;">
+<font size="4">
+  Americans don’t know much about science, and that is a problem.</font>
+</p>
+<br>
+
+<br>
+[<font size="4">
+    <b>
+      Bad science pervades the abortion debate
+    </b>
+</font>](http://www.kentwired.com/opinion/article_31958535-e8b4-5d03-b9ed-1f6af2d9cdb6.html)
+<p>
+<img src="/images/KentStater_headshot.jpg" style="float:right;width:150px;height:100px;">
+<font size="4">
+  Dubbed the “Heartbeat Bill,” H.B. No. 125 would ban abortions as early as 18 days after conception, meaning that a woman’s legal choice to pursue an abortion would effectively be restricted until before the vast majority of women even realize they are pregnant.</font>
+</p>
+<br>
+
+<br>
+[<font size="4">
+    <b>
+      Genetically modified crops have a place in sustainable agriculture
+    </b>
+</font>](http://www.kentwired.com/opinion/article_dfed0e8c-4446-57b5-9113-1cbb673f5f6f.html)
+<p>
+<img src="/images/KentStater_headshot.jpg" style="float:right;width:150px;height:100px;">
+<font size="4">
+  Truth be told, humans have been altering the genetic makeup of food for thousands of years. Our modern molecular tools are quite a bit more advanced than those of our ancestors, but the end result is the same.
+</p>
+<br>
