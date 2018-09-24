@@ -109,20 +109,96 @@ Available on <i>bioRxiv</i>.
 <br>
 
 <br>
-*[The effect of microbial colonization on the host proteome varies by gastrointestinal location](https://www.nature.com/articles/ismej2015187/)*<br>
-Joshua S Lichtman, Emily Alsentzer, Mia Jaffe, **Daniel Sprockett**, Evan Masutani, Elvis Ikwa, Gabriela K Fragiadakis, David Clifford, Bevan Emma Huang, Justin L Sonnenburg, Kerwyn Casey Huang, and Joshua E Elias (2015) ISME J 10:1170-1181.<br> 
+[<font size="5">
+    <i>
+    <b>
+      Use of 16S rRNA sequencing and quantitative PCR to correlate venous leg ulcer bacterial bioburden dynamics with wound expansion, antibiotic therapy, and healing
+    </b>
+    </i>
+</font>](https://onlinelibrary.wiley.com/doi/abs/10.1111/wrr.12309)
+<font size="3">
+  <b>
+    Daniel Sprockett
+  </b>
+  , Christine Ammons, and Marie Tuttle (2015)
+  <i>
+    Wound Repair Regen. 
+  </i>
+  23(5): 765-771.
+</font>
+<br>
 
-*[Use of 16S rRNA sequencing and quantitative PCR to correlate venous leg ulcer bacterial bioburden dynamics with wound expansion, antibiotic therapy, and healing](https://onlinelibrary.wiley.com/doi/abs/10.1111/wrr.12309)*<br>
-**Daniel D. Sprockett**, Christine Ammons, and Marie Tuttle (2015) Wound Repair Regen 23(5): 765-771.<br>
+<br>
+[<font size="5">
+    <i>
+    <b>
+      Evolutionary Analysis of Glycosyl Hydrolase Family 28 (GH28) Suggests Lineage-Specific Expansions in Necrotrophic Fungal Pathogens
+    </i>
+</font>](https://www.sciencedirect.com/science/article/pii/S037811191100076X)
+<font size="3">
+  <b>
+    Daniel D. Sprockett
+  </b>
+  , Helen Piontkivska, and Christopher B. Blackwood (2011)
+  <i>
+    Gene. 
+  </i>
+  479(1-2): 29-36.
+</font>
+<br>
 
-*[Evolutionary Analysis of Glycosyl Hydrolase Family 28 (GH28) Suggests Lineage-Specific Expansions in Necrotrophic Fungal Pathogens](https://www.sciencedirect.com/science/article/pii/S037811191100076X)*<br>
-**Daniel D. Sprockett**, Helen Piontkivska, and Christopher B. Blackwood (2011) Gene 479(1-2): 29-36.<br>
-
-*[Circadian Input Kinases and their Homologs in Cyanobacteria: Evolutionary Constraints Versus Architectural Diversification](https://link.springer.com/article/10.1007/s00239-010-9344-0)*<br>
-Ivan Baca, **Daniel Sprockett**, and Volodymyr Dvornyk (2010) J Mol Evol 70(5): 453-465.<br>
+<br>
+[<font size="5">
+    <i>
+    <b>
+      Circadian Input Kinases and their Homologs in Cyanobacteria: Evolutionary Constraints Versus Architectural Diversification
+    </i>
+</font>](https://link.springer.com/article/10.1007/s00239-010-9344-0)
+<font size="3">
+  Ivan Baca, 
+  <b>
+    Daniel Sprockett
+  </b>
+  , and Volodymyr Dvornyk (2010)
+  <i>
+    J Mol Evol. 
+  </i>
+  70(5): 453-465.
+</font>
+<br>
 
 
 <h2>Scientific Writing for the General Public</h2>
+<font size="5">I've also written about science for a general audience from time to time. Check out some of my favorite articles below.</font>
+
+<br>
+
+<font size="3">I've also written about science for a general audience from time to time. Check out some of my favorite articles below.</font>
+
+<br>
+
+[<font size="5">
+    <b>
+      Gut Check!
+    </b>
+</font>](https://medium.com/gut-check)
+<font size="3">
+  I wrote a weekly science column for [<i>The Festival of Dangerious Ideas</i>](https://festivalofdangerousideas.com/), a few of which are now hosted on medium.com
+</font>
+
+[<font size="5">
+    <b>
+      Moral enhancements and your micriobiome.
+    </b>
+</font>](https://medium.com/gut-check/gut-instincts-moral-enhancement-the-microbiome-f5bd3395cc1a)
+<font size="3">
+    <i>
+      Your stomach bacteria is changing the way you think.
+    </i>
+      Why the saying “thinking with your gut” is more accurate than you probably realize.
+    </font>
+
+
 
 [Gut Check!](https://medium.com/gut-check)<br>
 
