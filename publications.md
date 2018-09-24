@@ -285,6 +285,6 @@ Available on <i>bioRxiv</i>.
 <p>
 <img src="/images/KentStater_headshot.jpg" style="float:right;width:150px;height:100px;">
 <font size="4">
-  Truth be told, humans have been altering the genetic makeup of food for thousands of years. Our modern molecular tools are quite a bit more advanced than those of our ancestors, but the end result is the same.
+  Truth be told, humans have been altering the genetic makeup of food for thousands of years. Our modern molecular tools are quite a bit more advanced than those of our ancestors, but the end result is the same.</font>
 </p>
 <br>
