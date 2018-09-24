@@ -8,14 +8,14 @@
 # Site settings
 title: Daniel Sprockett
 email: daniel.sprockett@gmail.com
-description: Microbiology & Immunology PhD Student at the Stanford School of Medicine
+description: Microbiology & Immunology PhD Student at Stanford University
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://danielsprockett.github.io/" # the base hostname & protocol for your site
 twitter_username: danielsprockett
 github_username:  danielsprockett
 instagram_username:  GradSchoolDad
 paginate: 5
-theme-dark: false #Set to true to change to dark website theme
+theme-dark: true #Set to true to change to dark website theme
 
 plugins: [jekyll-paginate, kramdown]
 # Build settings

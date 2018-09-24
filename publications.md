@@ -208,7 +208,7 @@ Available on <i>bioRxiv</i>.
 <p>
 <img src="/images/GutCheck_2.png" style="float:right;width:200px;height:100px;">
 <font size="4">
-  Microbial life is vastly different indoors than out
+  Microbial life is vastly different indoors than out.
   <i> Is it time we started designing spaces for microbiology?</i>
 </font>
 </p>
@@ -259,7 +259,7 @@ Available on <i>bioRxiv</i>.
 <p>
 <img src="/images/KentStater_headshot.jpg" style="float:right;width:150px;height:100px;">
 <font size="4">
-  Americans don’t know much about science, and that is a problem.</font>
+  "Americans don’t know much about science, and that is a problem."</font>
 </p>
 <br>
 
@@ -272,7 +272,7 @@ Available on <i>bioRxiv</i>.
 <p>
 <img src="/images/KentStater_headshot.jpg" style="float:right;width:150px;height:100px;">
 <font size="4">
-  Dubbed the “Heartbeat Bill,” H.B. No. 125 would ban abortions as early as 18 days after conception, meaning that a woman’s legal choice to pursue an abortion would effectively be restricted until before the vast majority of women even realize they are pregnant.</font>
+  "Dubbed the “Heartbeat Bill,” H.B. No. 125 would ban abortions as early as 18 days after conception, meaning that a woman’s legal choice to pursue an abortion would effectively be restricted until before the vast majority of women even realize they are pregnant."</font>
 </p>
 <br>
 
@@ -285,6 +285,6 @@ Available on <i>bioRxiv</i>.
 <p>
 <img src="/images/KentStater_headshot.jpg" style="float:right;width:150px;height:100px;">
 <font size="4">
-  Truth be told, humans have been altering the genetic makeup of food for thousands of years. Our modern molecular tools are quite a bit more advanced than those of our ancestors, but the end result is the same.</font>
+  "Truth be told, humans have been altering the genetic makeup of food for thousands of years. Our modern molecular tools are quite a bit more advanced than those of our ancestors, but the end result is the same."</font>
 </p>
 <br>
