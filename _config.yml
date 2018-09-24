@@ -15,7 +15,7 @@ twitter_username: danielsprockett
 github_username:  danielsprockett
 instagram_username:  GradSchoolDad
 paginate: 5
-theme-dark: true #Set to true to change to dark website theme
+theme-dark: false #Set to true to change to dark website theme
 
 plugins: [jekyll-paginate, kramdown]
 # Build settings
