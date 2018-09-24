@@ -10,7 +10,7 @@ category: "publications"
 [<font size="5">
     <i>
     <b>
-      Treatment-Specific Composition of Gut Microbiota Is Associated with Disease Remission in a Pediatric Crohn's Disease Cohort
+      Treatment-Specific Composition of Gut Microbiota Is Associated with Disease Remission in a Pediatric Crohn's Disease Cohort.
     </b>
     </i>
 </font>](https://www.biorxiv.org/content/early/2018/09/10/412890)
@@ -30,7 +30,7 @@ Available on <i>bioRxiv</i>.
 [<font size="5">
     <i>
     <b>
-      Role of priority effects in the early-life assembly of the gut microbiota
+      Role of priority effects in the early-life assembly of the gut microbiota.
     </b>
     </i>
 </font>](https://www.nature.com/articles/nrgastro.2017.173)
@@ -49,7 +49,7 @@ Available on <i>bioRxiv</i>.
 [<font size="5">
     <i>
     <b>
-      Characterization of the facial microbiome in twins discordant for rosacea
+      Characterization of the facial microbiome in twins discordant for rosacea.
     </b>
     </i>
 </font>](https://onlinelibrary.wiley.com/doi/abs/10.1111/exd.13491)
@@ -70,7 +70,7 @@ Available on <i>bioRxiv</i>.
 [<font size="5">
     <i>
     <b>
-      Comparison of pectin-degrading fungal communities in temperate forests using glycosyl hydrolase family 28 pectinase primers targeting Ascomycete fungi
+      Comparison of pectin-degrading fungal communities in temperate forests using glycosyl hydrolase family 28 pectinase primers targeting Ascomycete fungi.
     </b>
     </i>
 </font>](https://www.sciencedirect.com/science/article/pii/S0167701216300306)
@@ -91,7 +91,7 @@ Available on <i>bioRxiv</i>.
 [<font size="5">
     <i>
     <b>
-      The effect of microbial colonization on the host proteome varies by gastrointestinal location
+      The effect of microbial colonization on the host proteome varies by gastrointestinal location.
     </b>
     </i>
 </font>](https://www.nature.com/articles/ismej2015187/)
@@ -112,7 +112,7 @@ Available on <i>bioRxiv</i>.
 [<font size="5">
     <i>
     <b>
-      Use of 16S rRNA sequencing and quantitative PCR to correlate venous leg ulcer bacterial bioburden dynamics with wound expansion, antibiotic therapy, and healing
+      Use of 16S rRNA sequencing and quantitative PCR to correlate venous leg ulcer bacterial bioburden dynamics with wound expansion, antibiotic therapy, and healing.
     </b>
     </i>
 </font>](https://onlinelibrary.wiley.com/doi/abs/10.1111/wrr.12309)
@@ -132,7 +132,8 @@ Available on <i>bioRxiv</i>.
 [<font size="5">
     <i>
     <b>
-      Evolutionary Analysis of Glycosyl Hydrolase Family 28 (GH28) Suggests Lineage-Specific Expansions in Necrotrophic Fungal Pathogens
+      Evolutionary Analysis of Glycosyl Hydrolase Family 28 (GH28) Suggests Lineage-Specific Expansions in Necrotrophic Fungal Pathogens.
+    </b>
     </i>
 </font>](https://www.sciencedirect.com/science/article/pii/S037811191100076X)
 <font size="3">
@@ -151,7 +152,8 @@ Available on <i>bioRxiv</i>.
 [<font size="5">
     <i>
     <b>
-      Circadian Input Kinases and their Homologs in Cyanobacteria: Evolutionary Constraints Versus Architectural Diversification
+      Circadian Input Kinases and their Homologs in Cyanobacteria: Evolutionary Constraints Versus Architectural Diversification.
+    </b>
     </i>
 </font>](https://link.springer.com/article/10.1007/s00239-010-9344-0)
 <font size="3">
@@ -173,10 +175,6 @@ Available on <i>bioRxiv</i>.
 
 <br>
 
-<font size="3">I've also written about science for a general audience from time to time. Check out some of my favorite articles below.</font>
-
-<br>
-
 [<font size="5">
     <b>
       Gut Check!
@@ -190,14 +188,15 @@ Available on <i>bioRxiv</i>.
     <b>
       Moral enhancements and your micriobiome.
     </b>
+<p><img src="/images/GutCheck_1.png" alt="Smiley face" style="float:right;width:42px;height:42px;">
 </font>](https://medium.com/gut-check/gut-instincts-moral-enhancement-the-microbiome-f5bd3395cc1a)
-<font size="3">
+<font size="4">
     <i>
-      Your stomach bacteria is changing the way you think.
+      Your stomach bacteria is changing the way you think. 
     </i>
       Why the saying “thinking with your gut” is more accurate than you probably realize.
     </font>
-
+</p>
 
 
 [Gut Check!](https://medium.com/gut-check)<br>
