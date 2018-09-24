@@ -188,11 +188,12 @@ Available on <i>bioRxiv</i>.
     <b>
       Moral enhancements and your micriobiome.
     </b>
-<p><img src="/images/GutCheck_1.png" alt="Smiley face" style="float:right;width:42px;height:42px;">
 </font>](https://medium.com/gut-check/gut-instincts-moral-enhancement-the-microbiome-f5bd3395cc1a)
+<p>
+<img src="/images/GutCheck_1.png" style="float:right;width:200px;height:200px;">
 <font size="4">
     <i>
-      Your stomach bacteria is changing the way you think. 
+      Your stomach bacteria is changing the way you think.  
     </i>
       Why the saying “thinking with your gut” is more accurate than you probably realize.
     </font>
