@@ -181,7 +181,7 @@ Available on <i>bioRxiv</i>.
     </b>
 </font>](https://medium.com/gut-check)
 <font size="3">
-  I wrote a weekly science column for [<i>The Festival of Dangerious Ideas</i>](https://festivalofdangerousideas.com/), a few of which are now hosted on medium.com
+  I wrote a weekly science column for <a href="https://festivalofdangerousideas.com/">The Festival of Dangerious Ideas</a>, a few of which are now hosted on medium.com
 </font>
 
 [<font size="5">
@@ -190,13 +190,11 @@ Available on <i>bioRxiv</i>.
     </b>
 </font>](https://medium.com/gut-check/gut-instincts-moral-enhancement-the-microbiome-f5bd3395cc1a)
 <p>
-<img src="/images/GutCheck_1.png" style="float:right;width:200px;height:200px;">
+<img src="/images/GutCheck_1.png" style="float:right;width:200px;height:100px;">
 <font size="4">
-    <i>
-      Your stomach bacteria is changing the way you think.  
-    </i>
-      Why the saying “thinking with your gut” is more accurate than you probably realize.
-    </font>
+  <i> Your stomach bacteria is changing the way you think. </i>
+  Why the saying “thinking with your gut” is more accurate than you probably realize.
+</font>
 </p>
 
 
