@@ -175,7 +175,7 @@ Available on <i>bioRxiv</i>.
 
 <br>
 
-[<font size="5">
+[<font size="6">
     <b>
       Gut Check!
     </b>
@@ -184,9 +184,10 @@ Available on <i>bioRxiv</i>.
   I wrote a weekly science column for <a href="https://festivalofdangerousideas.com/">The Festival of Dangerious Ideas</a>, a few of which are now hosted on medium.com
 </font>
 
-[<font size="5">
+<br>
+[<font size="4">
     <b>
-      Moral enhancements and your micriobiome.
+      Moral enhancements and your micriobiome
     </b>
 </font>](https://medium.com/gut-check/gut-instincts-moral-enhancement-the-microbiome-f5bd3395cc1a)
 <p>
@@ -196,6 +197,24 @@ Available on <i>bioRxiv</i>.
   Why the saying “thinking with your gut” is more accurate than you probably realize.
 </font>
 </p>
+<br>
+
+<br>
+[<font size="4">
+    <b>
+      The Microbiome Of Built Environments
+    </b>
+</font>](https://medium.com/gut-check/the-microbiome-of-built-environments-756f2ced4645)
+<p>
+<img src="/images/GutCheck_2.png" style="float:right;width:200px;height:100px;">
+<font size="4">
+  Microbial life is vastly different indoors than out
+  <i> Is it time we started designing spaces for microbiology?</i>
+  Why the saying “thinking with your gut” is more accurate than you probably realize.
+</font>
+</p>
+<br>
+
 
 
 [Gut Check!](https://medium.com/gut-check)<br>
