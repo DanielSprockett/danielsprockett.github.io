@@ -1,278 +1,93 @@
 <!DOCTYPE html>
-<html lang="en">
+<meta charset="utf-8">
+<style>
 
-<head>
+.links line {
+  stroke: #999;
+  stroke-opacity: 0.6;
+}
 
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
+.nodes circle {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
 
-    <title>Landing Page - Start Bootstrap Theme</title>
+</style>
+<svg width="960" height="600"></svg>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script>
 
-    <!-- Bootstrap Core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+var svg = d3.select("svg"),
+    width = +svg.attr("width"),
+    height = +svg.attr("height");
 
-    <!-- Custom CSS -->
-    <link href="css/landing-page.css" rel="stylesheet">
+var color = d3.scaleOrdinal(d3.schemeCategory20);
 
-    <!-- Custom Fonts -->
-    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <link href="http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
-    <link href='http://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
+var simulation = d3.forceSimulation()
+    .force("link", d3.forceLink().id(function(d) { return d.id; }))
+    .force("charge", d3.forceManyBody())
+    .force("center", d3.forceCenter(width / 2, height / 2));
 
-    <link rel="stylesheet" type="text/css" href="css/style1.css">
+d3.json("miserables.json", function(error, graph) {
+  if (error) throw error;
 
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
-    <style>
-        svg {
-            font-size: 12px;
-            font-family: "Open Sans", "sans-serif";
-        }
+  var link = svg.append("g")
+      .attr("class", "links")
+    .selectAll("line")
+    .data(graph.links)
+    .enter().append("line")
+      .attr("stroke-width", function(d) { return Math.sqrt(d.value); });
 
-        .background path {
-            fill: none;
-            stroke: #ddd;
-            shape-rendering: crispEdges;
-        }
+  var node = svg.append("g")
+      .attr("class", "nodes")
+    .selectAll("circle")
+    .data(graph.nodes)
+    .enter().append("circle")
+      .attr("r", 5)
+      .attr("fill", function(d) { return color(d.group); })
+      .call(d3.drag()
+          .on("start", dragstarted)
+          .on("drag", dragged)
+          .on("end", dragended));
 
-        .foreground path {
-            fill: none;
-        }
+  node.append("title")
+      .text(function(d) { return d.id; });
 
-        .brush .extent {
-            fill-opacity: .3;
-            stroke: #fff;
-            shape-rendering: crispEdges;
-        }
+  simulation
+      .nodes(graph.nodes)
+      .on("tick", ticked);
 
-        .axis line,
-        .axis path {
-            fill: none;
-            stroke: #000;
-            shape-rendering: crispEdges;
-        }
+  simulation.force("link")
+      .links(graph.links);
 
-        .axis text {
-            text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, 0 -1px 0 #fff, -1px 0 0 #fff;
-            cursor: move;
-        }
+  function ticked() {
+    link
+        .attr("x1", function(d) { return d.source.x; })
+        .attr("y1", function(d) { return d.source.y; })
+        .attr("x2", function(d) { return d.target.x; })
+        .attr("y2", function(d) { return d.target.y; });
 
-        svg .title {
-            font-size: 16px;
-            font-weight:700;
-        }
+    node
+        .attr("cx", function(d) { return d.x; })
+        .attr("cy", function(d) { return d.y; });
+  }
+});
 
-        svg .label {
-            font-size: 12px;
-            font-family: "Open Sans", "sans-serif";
-            font-weight:400;
-        }
+function dragstarted(d) {
+  if (!d3.event.active) simulation.alphaTarget(0.3).restart();
+  d.fx = d.x;
+  d.fy = d.y;
+}
 
-    </style>
-</head>
-<body>
-<!-- Navigation -->
-<nav class="navbar navbar-default navbar-fixed-top topnav" role="navigation">
-    <div class="container topnav">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand topnav" href="index.html#top">American Time Use</a>
-        </div>
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-            <ul class="nav navbar-nav navbar-right">
-                <li>
-                    <a href="index.html#time_management">Motivation</a>
-                </li>
+function dragged(d) {
+  d.fx = d3.event.x;
+  d.fy = d3.event.y;
+}
 
-                <li>
-                    <a href="index.html#objectives">Goals</a>
-                </li>
-                <li>
-                    <a href="index.html#data">Data</a>
-                </li>
-                <li>
-                    <a href="index.html#our_team">Team</a>
-                </li>
-                <li>
-                    <a href="index.html#references">References</a>
-                </li>
-            </ul>
-        </div>
-        <!-- /.navbar-collapse -->
-    </div>
-    <!-- /.container -->
-</nav>
+function dragended(d) {
+  if (!d3.event.active) simulation.alphaTarget(0);
+  d.fx = null;
+  d.fy = null;
+}
 
-<!-- Header -->
-<div id="top" class="intro-header">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12">
-                <div class="intro-section">
-                    <h1>Time Use Across America</h1>
-                    <hr class="intro-divider">
-<ul class="list-inline intro-social-buttons">
-    
-    <li>
-        <a href="index.html" class="btn btn-default btn-lg network-name">Return to Story</a></li>
-    <li>
-    
-        <a href="oneday.html" class="btn btn-default btn-lg"> <span class="network-name">A Day in the Life</span></a>
-    </li>
-    <li>
-        <a href="chorddiagram.html" class="btn btn-default btn-lg"> <span class="network-name">A Day in Transition</span></a>
-    </li>
-    <li>
-        <a href="choropleth.html" class="btn btn-default btn-lg"> <span class="network-name">Across America</span></a>
-    </li>
-    <li>
-        <a href="differences.html" class="btn btn-default btn-lg"> <span class="network-name">Group Differences</span></a>
-    </li>
-</ul>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- /.container -->
-</div>
-
-<div class="content-section-b">
-    <div class="container">
-        <div id="objectives" class="row">
-            <div class="col-lg-6 col-lg-offset-3">
-                <h2 class="section-heading">Insights & Observations</h2>
-                <ul>
-                    <li class="descriptions"><span class="mainpoint">Differences between gender </span>
-                        were not as vast between categories as expected. There was a surprisingly large amount of overlap between genders across all states.
-                    </li>
-                    <br>
-                    <li class="descriptions"><span class="mainpoint">Unemployment among women </span>
-                        was higher than for men, as indicated by the greater frequency of women who work less than 1 hour a day.
-                    </li>
-                    <br>
-                    <li class="descriptions"><span class="mainpoint">People in North Dakota </span>
-                        spent more time in their day doing leisure activities than people in any other state.
-                    </li>
-                    <br>
-                    <li class="descriptions"><span class="mainpoint">Time spent on education </span>
-                        tends to be greater for women than for men across all states.
-                    </li>
-                    <br>
-                </ul>
-            </div>
-            <!--<div class="col-lg-6">-->
-            <!--<div id="floatingCirclesG">-->
-            <!--<div class="f_circleG" id="frotateG_01"></div>-->
-            <!--<div class="f_circleG" id="frotateG_02"></div>-->
-            <!--<div class="f_circleG" id="frotateG_03"></div>-->
-            <!--<div class="f_circleG" id="frotateG_04"></div>-->
-            <!--<div class="f_circleG" id="frotateG_05"></div>-->
-            <!--<div class="f_circleG" id="frotateG_06"></div>-->
-            <!--<div class="f_circleG" id="frotateG_07"></div>-->
-            <!--<div class="f_circleG" id="frotateG_08"></div>-->
-            <!--</div>-->
-            <!--<p class="ready">Get Set. Ready. Explore</p>-->
-            <!--</div>-->
-        </div>
-
-    </div>
-    <!-- /.container -->
-
-</div>
-
-<!-- /.intro-header -->
-<div class="container-fluid">
-    <div class="row">
-        <div class="col-md-4">
-            <h2 class="tag text-center">Time Spent on <span id="update">Work</span></h2>
-            <h3 class="mainpoint text-center text-uppercase">[ <span id="state">All States</span> ]</h3>
-            <div id="overlapping-histogram"></div>
-        </div>
-        <div class="col-md-8">
-            <form class="form-inline">
-                <div class="form-group">
-                    <br>
-                    <label for="rankingType">Category to Map by: </label>
-                    <select class="form-control" id="map-type" onchange="updateMap()">
-                        <option value="Average Work">Average Working Time (hrs)</option>
-                        <option value="Average Leisure">Average Leisure Time (hrs)</option>
-                        <option value="Average Personal Care">Average Personal Care Time (hrs)</option>
-                        <option value="Average Educational Time">Average Education Time (hrs)</option>
-                    </select>
-                    <div class="help-tip">
-                        <p>The choropleth map shows average hours in various categories of time use across
-                        different states in the US. Color intensity reflects the  average number of hours.
-                        Hover over each state to see the distributions of hours that females and males in each state spend
-                        for each category of time use in the histogram to the left. </p>
-                    </div>
-                    <br><br><br><br>
-                    <span>
-                        <p>Hover over the map to see the gender breakdown for that state. </p>
-                    </span>
-                </div>
-            </form>
-            <div id="content-1"></div>
-            <div id="visualization"></div>
-
-</div>
-<footer>
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12">
-                <ul class="list-inline">
-                    <li>
-                        <a href="index.html#time_management">Motivation</a>
-                    </li>
-                    <li>
-                        <a href="index.html#objectives">Goals</a>
-                    </li>
-                    <li>
-                        <a href="index.html#data">Data</a>
-                    </li>
-
-                    <!--<li>-->
-                    <!--<a href="#insights">Insights</a>-->
-                    <!--</li>-->
-                    <li>
-                        <a href="index.html#our_team">Team</a>
-                    </li>
-                    <!--<li>-->
-                    <!--<a href="#references">References</a>-->
-                    <!--</li>-->
-                </ul>
-                <p class="copyright text-muted small">Team Triple Treat @ 2016</p>
-            </div>
-        </div>
-    </div>
-</footer>
-<!-- Load JS libraries -->
-<script src="js/jquery.js"></script>
-<script src="js/queue.min.js"></script>
-<script src="js/bootstrap.min.js"></script>
-<script src="js/topojson.js"></script>
-<script src="js/d3.min.js"></script>
-<script src="js/d3.tip.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/1.10.0/d3-legend.min.js"></script>
-<script src="js/colorbrewer.js"></script>
-<script src="js/vis-choropleth1.js"></script>
-<script src="js/tab.js"></script>
-<script src="js/layeredHistogram.js"></script>
-<script src="js/histogram.js"></script>
-<script src="js/stackedAreaChart.js"></script>
-<script src="js/main.js"></script>
-</body>
-</html>
+</script>
