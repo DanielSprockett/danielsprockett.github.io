@@ -24,6 +24,6 @@ markdown: kramdown
 # SYNC with
 # cd /Users/daniel/_site/danielsprockett.github.io
 # git add --all
-# git commit -m "add video"
+# git commit -m "add post"
 # git push -u origin master
 
