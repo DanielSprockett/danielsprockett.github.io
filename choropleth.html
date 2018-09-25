@@ -7,10 +7,14 @@
   stroke-opacity: 0.6;
 }
 
+This is test text #1. 
+
 .nodes circle {
   stroke: #fff;
   stroke-width: 1.5px;
 }
+
+This is test text #2. 
 
 </style>
 <svg width="960" height="600"></svg>
@@ -73,6 +77,9 @@ d3.json("miserables.json", function(error, graph) {
   }
 });
 
+This is test text #3. 
+
+
 function dragstarted(d) {
   if (!d3.event.active) simulation.alphaTarget(0.3).restart();
   d.fx = d.x;
@@ -91,3 +98,6 @@ function dragended(d) {
 }
 
 </script>
+
+This is test text #4. 
+
