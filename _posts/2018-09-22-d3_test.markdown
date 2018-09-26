@@ -37,9 +37,12 @@ google trends
 <option value="val2">BTC/EUR</option>
 <option value="val3">ETH/EUR</option>
 <option value="val4">ZEC/EUR</option>
+<option value="val5">test exampleoption>
 </select>
 <script type="text/javascript" src="/logbook/public/js/google-trend/google-graph.js"></script>
 <div id="graphic"> </div>
+
+
 
 <h2> Input Markdown to html</h2>
 
