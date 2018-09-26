@@ -5,11 +5,10 @@ permalink: /research/
 category: "research"
 ---
 
-
-Dan's dissertation research seeks to describe patterns of microbial community assembly in early life.<br>
-
-![Dan](/images/microbiome_maturation.png)
+![microbiome maturation](/images/microbiome_maturation.png)
  
+Dan's dissertation research seeks to explain patterns of microbial community assembly in early life.<br>
+
 A more detailed description of his research interests is forthcoming. 
 
 Test video:
