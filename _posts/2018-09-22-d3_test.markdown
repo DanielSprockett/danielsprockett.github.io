@@ -15,7 +15,7 @@ Update 3
 
 - hello
 
-<iframe src="https://bl.ocks.org/mbostock/raw/4061502/" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<iframe src="http://bl.ocks.org/mbostock/raw/4061502/0a200ddf998aa75dfdb1ff32e16b680a15e5cb01/" marginwidth="0" marginheight="0" width="600" height="400" scrolling="no"></iframe>
 
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="298" height="52" src="http://music.163.com/outchain/player?type=2&id=29750802&auto=0&height=32"></iframe>
@@ -41,7 +41,6 @@ google trends
 <option value="val1">Google Search Statistics</option>
 <option value="val2">BTC/EUR</option>
 <option value="val3">ETH/EUR</option>
-<option value="val4">ZEC/EUR</option>
 <option value="val5">test example</option>
 </select>
 <script type="text/javascript" src="/logbook/public/js/google-trend/google-graph.js"></script>
