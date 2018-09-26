@@ -15,6 +15,9 @@ This is a test post #2 on a website that is being built.
 <h2> Input Markdown to html</h2>
 
 <div markdown = "0"> 
+
+- hello
+
 <!DOCTYPE html>
 
 <meta charset="utf-8">
