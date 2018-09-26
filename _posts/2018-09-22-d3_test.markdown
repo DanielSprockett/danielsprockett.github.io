@@ -23,7 +23,7 @@ Update 3
 
 cross host
 
-<iframe src="https://danielsprockett.github.io/choropleth.html" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<iframe src="https://danielsprockett.github.io/choropleth.html"></iframe>
 
 <iframe src="/choropleth.html" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
@@ -56,3 +56,9 @@ google trends
 <br>
 
 </div>
+
+<iframe 
+	width="560"
+	height="420" 
+	src="http://www.youtube.com/embed/?color=white&amp;theme=light">
+</iframe>
