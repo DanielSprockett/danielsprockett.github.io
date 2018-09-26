@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Test Post #1"
+date:   2018-09-26
+categories: ["science", "microbiome"]
+author: "Dan"
+---
+
+<h2> Test Post #1</h2>
+
+This is a test post.
+
