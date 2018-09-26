@@ -7,7 +7,8 @@ author: "Dan"
 ---
 
 
-<h2> Input Markdown </h2>
+<h2> 
+Input Markdown </h2>
 This is a test post #2 on a website that is being built.
 
 Update 3
@@ -21,6 +22,22 @@ cross host
 
 <iframe src="https://danielsprockett.github.io/choropleth.html" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
+
+google trends
+
+<link href="/logbook/public/css/google/stylesheet.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="https://d3js.org/d3.v3.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script type="text/javascript" src="/logbook/public/js/google-trend/jquery.tipsy.js"></script>
+
+<p id="menu" class="menuchoice">Select series: <select>
+<option value="val1">Google Search Statistics</option>
+<option value="val2">BTC/EUR</option>
+<option value="val3">ETH/EUR</option>
+<option value="val4">ZEC/EUR</option>
+</select>
+<script type="text/javascript" src="/logbook/public/js/google-trend/google-graph.js"></script>
+<div id="graphic"> </div>
 
 <h2> Input Markdown to html</h2>
 
