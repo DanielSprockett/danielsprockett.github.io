@@ -18,10 +18,7 @@ category: "publications"
   <b>
     Daniel Sprockett
   </b>
-  , Natalie Fischer, Rotem Sigall Boneh, Dan Turner, Jarek Kierkus, Malgorzata Sladek, Johanna Escher, Eytan Wine, Baruch Yerushalmi, Jorge Amil Dias, Ron Shaoul, Michal Kori, Scott Snapper, Susan Holmes, Athos Bousvaros, Arie Levine, David A. Relman (2018) Submitted to 
-  <i>
-    Am J Gastroenterol.
-  </i>
+  , Natalie Fischer, Rotem Sigall Boneh, Dan Turner, Jarek Kierkus, Malgorzata Sladek, Johanna Escher, Eytan Wine, Baruch Yerushalmi, Jorge Amil Dias, Ron Shaoul, Michal Kori, Scott Snapper, Susan Holmes, Athos Bousvaros, Arie Levine, David A. Relman (2018) 
 Available on <i>bioRxiv</i>.
 </font>
 <br>
