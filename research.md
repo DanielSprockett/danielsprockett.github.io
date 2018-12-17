@@ -9,7 +9,7 @@ category: "research"
  
 Dan's dissertation research seeks to explain patterns of microbial community assembly in early life.<br>
 
-A more detailed description of his research interests is forthcoming. 
+A more detailed description of his research interests is forthcoming, and will be updated soon. 
 
 Test video:
 
