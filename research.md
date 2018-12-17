@@ -7,7 +7,7 @@ category: "research"
 
 ![microbiome maturation](/images/microbiome_maturation.png)
  
-Dan's dissertation research seeks to explain patterns of microbial community assembly in early life.<br>
+I am interested in how host-associated communities arise in early life, as well as the ecological processes that shape them as they develop towards a stable, adult-like configuration.<br>
 
 A more detailed description of his research interests is forthcoming, and will be updated soon. 
 
