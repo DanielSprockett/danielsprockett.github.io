@@ -26,6 +26,8 @@ You can check it out [here](https://danielsprockett.github.io/mherit/).
 
 [<code>reltools</code>](https://github.com/DanielSprockett/reltools) is an R package that I created to facilitate the analysis of 16S rRNA amplicon datasets by members of the Relman lab. It was not intended for widespread use, although some people may find it useful.
 
+You can install it [here](https://github.com/DanielSprockett/reltools).
+
 &nbsp;
 
 
