@@ -11,7 +11,7 @@ permalink: /software/
 
 ***
 
-<h3>[<code>mherit</code>](https://danielsprockett.github.io/mherit/)</h3>
+<h3><code>[mherit](https://danielsprockett.github.io/mherit/)</code></h3>
 
 I'm currently developing an R package called [<code>mherit</code>](https://danielsprockett.github.io/mherit/), which will facilitate calculating the heritability of 16S rRNA amplicon datasets.  
 
