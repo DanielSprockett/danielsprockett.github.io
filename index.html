@@ -9,7 +9,7 @@ layout: default
   Welcome!
   <br>
   <br>
-  I am a PhD candidate in <a href="http://med.stanford.edu/relmanlab.html">David Relman's Lab</a> at the Stanford School of Medicine, where we study the host-associated microbial communities. More specifically, I'm trying to better understand where your microbiome comes from in early life, and how it develops into a complex ecological system.  
+  I am a PhD candidate in <a href="http://med.stanford.edu/relmanlab.html">David Relman's Lab</a> at the Stanford School of Medicine, where I study host-associated microbial communities. More specifically, I'm trying to better understand where your microbiome comes from in early life, and how it develops into a stable and resilient ecological system.  
   <br>
 </p>  
   
@@ -19,7 +19,8 @@ layout: default
 <br>
 <br>
 
-
+<h4>Recent Posts</h4>
+  
   {% for post in paginator.posts%}
   <div class="post postContent">
     <div  class="postDate"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time>
