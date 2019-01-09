@@ -37,7 +37,7 @@ Available on <i>bioRxiv</i>.
   </b>
   , Tadashi Fukami, and David Relman (2018)
   <i>
-    Nat Rev Gastroenterol Hepatol.
+    Nat Rev Gastroenterol Hepatol.   
   </i>
  </font>
 <font size="4"> 
