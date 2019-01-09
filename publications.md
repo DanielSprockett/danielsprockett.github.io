@@ -39,11 +39,13 @@ Available on <i>bioRxiv</i>.
   <i>
     Nat Rev Gastroenterol Hepatol.
   </i>
+ </font>
+<font size="4"> 
   <b>
     * Most Viewed Article of 2018!
   </b>
+ </font>
 
-</font>
 <br>
 
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">No. 1 🏅 Top viewed 2018 Review: <a href="https://twitter.com/hashtag/GutMicrobiota?src=hash&amp;ref_src=twsrc%5Etfw">#GutMicrobiota</a> assembly early in life. <a href="https://twitter.com/DanielSprockett?ref_src=twsrc%5Etfw">@DanielSprockett</a>, <a href="https://twitter.com/TadashiFukami?ref_src=twsrc%5Etfw">@TadashiFukami</a> &amp; <a href="https://twitter.com/DavidRelman?ref_src=twsrc%5Etfw">@DavidRelman</a> explore the influence of priority effects wrt microbial species arrival <a href="https://t.co/JdIincvws5">https://t.co/JdIincvws5</a> <a href="https://t.co/5NC6F3D0RU">pic.twitter.com/5NC6F3D0RU</a></p>&mdash; NatureRevGastroHep (@NatRevGastroHep) <a href="https://twitter.com/NatRevGastroHep/status/1079425099936268288?ref_src=twsrc%5Etfw">December 30, 2018</a></blockquote>
