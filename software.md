@@ -1,18 +1,16 @@
 ---
 layout: page
-title : About
+title : Software
 permalink: /about/
 ---
 
 ![Dan](/images/about_headshot.gif)
 
 
-<h2>Daniel Sprockett</h2>
-is a PhD student in [David Relman's Lab](http://med.stanford.edu/relmanlab.html) at Stanford University. <br>
-His research interests include analyzing complex datasets in R, the human microbiome, and host/pathogen co-evolution.<br>
-<br>
-Download his CV [here](/documents/Sprockett_CV_180924.pdf)<br>
-<br>
-Dan is an avid photographer, 
-helped organize The Stanford Center for Human Microbiome Studies's [Microbiome Summit](https://iti.stanford.edu/center-for-human-microbiome-studies/microbiome-summit.html), 
-and recently became a founding member of the [Stanford Science Policy Group](https://twitter.com/SpgStanford).
+<h1>R Packages</h1>
+
+<h2>mherit</h2>
+
+I'm currently developing an R package called [<code>mherit</code>](https://danielsprockett.github.io/mherit/), which will facilitate calculating the heritability of 16S rRNA amplicon datasets.  
+
+You can check it out [here](https://danielsprockett.github.io/mherit/).
