@@ -4,7 +4,7 @@ title : Software
 permalink: /software/
 ---
 
-<h1>R Packages</h1>
+<h1>R PACKAGES</h1>
 
 <h3>mherit</h3>
 
