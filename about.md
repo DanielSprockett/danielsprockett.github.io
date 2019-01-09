@@ -4,9 +4,6 @@ title : About
 permalink: /about/
 ---
 
-![Dan](/images/about_headshot.gif)
-
-
 <h2>Daniel Sprockett</h2>
 is a PhD student in [David Relman's Lab](http://med.stanford.edu/relmanlab.html) at Stanford University. <br>
 His research interests include analyzing complex datasets in R, the human microbiome, and host/pathogen co-evolution.<br>

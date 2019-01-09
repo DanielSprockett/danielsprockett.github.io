@@ -1,11 +1,8 @@
 ---
 layout: page
 title : Software
-permalink: /about/
+permalink: /software/
 ---
-
-![Dan](/images/about_headshot.gif)
-
 
 <h1>R Packages</h1>
 
