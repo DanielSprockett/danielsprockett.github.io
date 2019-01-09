@@ -5,7 +5,7 @@ permalink: /publications/
 category: "publications"
 ---
 
-<h2>Peer-Reviewed Manuscripts</h2>
+<h1>Peer-Reviewed Manuscripts</h1>
 ***
 <br>
 [<font size="5">
@@ -178,9 +178,10 @@ Available on <i>bioRxiv</i>.
 <br>
 
 
-<h2>Scientific Writing for the General Public</h2>
+<h1>Scientific Writing for the General Public</h1>
 ***
-<font size="5">from time to time, I've also written about science for a general audience. Check out some of my favorite articles below.</font>
+<br>
+<font size="5">From time to time, I've also written about science for a general audience. Check out some of my favorite articles below.</font>
 
 <br>
 
