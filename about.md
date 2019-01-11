@@ -12,8 +12,6 @@ His research interests include analyzing complex datasets in R, the human microb
 <br>
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-2620-7555" href="https://orcid.org/0000-0003-2620-7555" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0003-2620-7555</a></div>
 <br>
-
-Download his CV [here](/documents/Sprockett_CV_180924.pdf)<br>
 <br>
 Dan is an avid photographer, 
 helped organize The Stanford Center for Human Microbiome Studies's [Microbiome Summit](https://iti.stanford.edu/center-for-human-microbiome-studies/microbiome-summit.html), 
