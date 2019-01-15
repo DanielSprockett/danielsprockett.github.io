@@ -11,7 +11,7 @@ I am PhD Candidate in [David Relman's Lab](http://med.stanford.edu/relmanlab.htm
 <br>
 During my time at Stanford, I was the Orientation and Recruitment Chair for [SBSA](http://med.stanford.edu/sbsa.html), served on my the M&I Department's Graduate Admissions Committee, and co-organized The Stanford Center for Human Microbiome Studies's [Microbiome Summit](https://iti.stanford.edu/center-for-human-microbiome-studies/microbiome-summit.html). For more information, please download my [CV](/documents/Sprockett_CV_190108.pdf).<br>
 <br>
-When I am not in the lab, I also enjoy traveling, nature photography, baking with my wife, and playing with our newborn.<br>
+When I am not in the lab, I also enjoy traveling, nature photography, and baking.<br>
 <br>
 <br>
 
@@ -65,4 +65,5 @@ A sail boat in Chiemsee, Germany.<br>
 <br>
 <img src="/images/Yosemite_Valley.jpg" alt="Yosemite Valley"/>
 The Yosemite Valley, California.<br>
+<br>
 <br>
