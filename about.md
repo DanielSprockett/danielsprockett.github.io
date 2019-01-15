@@ -4,31 +4,45 @@ title : About
 permalink: /about/
 ---
 
-![Dan at the Grand Canyon](/images/Dan_at_Grand_Canyon.jpg =250x)
-
 <h2>Daniel Sprockett</h2>
-is a PhD student in [David Relman's Lab](http://med.stanford.edu/relmanlab.html) at Stanford University. <br>
-His research interests include analyzing complex datasets in R, the human microbiome, and host/pathogen co-evolution.<br>
+
+<img src="/images/Dan_at_Grand_Canyon.jpg" alt="Dan at the Grand Canyon" style="float: left; margin-right: 10px;" height="400"/>
+
+<br>
+I am PhD Candidate in [David Relman's Lab](http://med.stanford.edu/relmanlab.html) at Stanford University. <br>
+My research interests include understanding assembly processes in host-associated microbial communities and host-microbe co-evolution. If you have questions, go ahead and contact me below. <br>
+
+I was a co-organizer of The Stanford Center for Human Microbiome Studies's [Microbiome Summit](https://iti.stanford.edu/center-for-human-microbiome-studies/microbiome-summit.html), and recently became a founding member of the [Stanford Science Policy Group](https://twitter.com/SpgStanford).
+<br>
+
+When I am not sciencing, I also enjoy wildlife and nature photography, , 
+
+<br>
+<h3>Contact</h3>
 <br>
 [Staford Profile](https://profiles.stanford.edu/daniel-sprockett)
 <br>
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-2620-7555" href="https://orcid.org/0000-0003-2620-7555" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0003-2620-7555</a></div>
 <br>
+daniel [dot] sprockett [at] stanford [dot] edu
 <br>
-Dan is an avid photographer, 
-helped organize The Stanford Center for Human Microbiome Studies's [Microbiome Summit](https://iti.stanford.edu/center-for-human-microbiome-studies/microbiome-summit.html), 
-and recently became a founding member of the [Stanford Science Policy Group](https://twitter.com/SpgStanford).
+Department of Microbiology and Immunology
+Fairchild Building, D300
+299 Campus Drive
+Stanford, CA 94305-5124
+<br>
+
 
 ***
 
-Photography
+<h3>Photography</h3>
 
 One day I'll get around to adding a full gallery, but until then, here is just a sample.
 
-<img src="/images/Northern_Jacana.jpg" alt="Northern Jacana" style="float: left; margin-right: 10px;" height="40" width="60" />
+<img src="/images/Northern_Jacana.jpg" alt="Northern Jacana" style="float: left; margin-right: 10px;" height="100" width="60" />
 Northern Jacana in Guanacaste, Costa Rica. 
 <br>
-<img src="/images/Tree_Snake.jpg" alt="Tree Snake Costa Rica" style="float: right; margin-left: 10px;" height="40"/>
+<img src="/images/Tree_Snake.jpg" alt="Tree Snake Costa Rica" style="float: right; margin-left: 10px;" height="400"/>
 <br>
 A tree snake slithering around La Selva Research Station, Costa Rica. 
 <br>
