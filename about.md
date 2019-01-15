@@ -4,7 +4,7 @@ title : About
 permalink: /about/
 ---
 
-![Dan at the Grand Canyon](/images/Dan_at_Grand_Canyon.jpg)
+![Dan at the Grand Canyon](/images/Dan_at_Grand_Canyon.jpg =250x)
 
 <h2>Daniel Sprockett</h2>
 is a PhD student in [David Relman's Lab](http://med.stanford.edu/relmanlab.html) at Stanford University. <br>
@@ -25,10 +25,13 @@ Photography
 
 One day I'll get around to adding a full gallery, but until then, here is just a sample.
 
-<img src="/images/Northern_Jacana.jpg" alt="Northern Jacana" style="float: left; margin-right: 10px;" />
-
-<img src="/images/Tree_Snake.jpg" alt="Tree Snake Costa Rica" style="float: right; margin-left: 10px;" />
-
+<img src="/images/Northern_Jacana.jpg" alt="Northern Jacana" style="float: left; margin-right: 10px;" height="40" width="60" />
+Northern Jacana in Guanacaste, Costa Rica. 
+<br>
+<img src="/images/Tree_Snake.jpg" alt="Tree Snake Costa Rica" style="float: right; margin-left: 10px;" height="40"/>
+<br>
+A tree snake slithering around La Selva Research Station, Costa Rica. 
+<br>
 <img src="/images/Yosemite_Valley.jpg" alt="Yosemite Valley" style="float: left; margin-right: 10px;" />
-
+The Yosemite Valley, California.
 
