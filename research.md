@@ -6,9 +6,9 @@ category: "research"
 ---
 
 ![microbiome maturation](/images/microbiome_maturation.png)
- 
+<br>
 I am interested in how host-associated communities arise in early life, as well as the ecological processes that shape them as they develop towards a stable, adult-like configuration.<br>
-
+<br>
 ***
 
 <h2>Assembly of the Tsimane Microbiome</h2>
@@ -32,7 +32,7 @@ The disease that develops in these very young patients often differs from older 
 <br>
 The communities of bacteria that live in in the gut of small children often have different composition than those that live in adults, and these differences could impact VEO-IBD disease course, as well as how they respond to treatment. Therefore, we are exploring the role of the oral and intestinal microbiome in this rare childhood disease which will pave the way for better diagnostics and treatments. <br>
 <br>
-For more information, please check out the [study website](http://med.stanford.edu/relmanlab/projects/the-microbiome-in-early-childhood/veo-ibd-and-the-microbiome.html).
+For more information, please check out the [study website](http://med.stanford.edu/relmanlab/projects/the-microbiome-in-early-childhood/veo-ibd-and-the-microbiome.html).<br>
 <br>
 Sampling Instructional Video:<br>
 <br>
