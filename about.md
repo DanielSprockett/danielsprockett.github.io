@@ -38,12 +38,24 @@ Stanford, CA 94305-5124<br>
 One day I'll get around to adding a full gallery, but for now, here is just a sample.
 
 <img src="/images/Northern_Jacana.jpg" alt="Northern Jacana" height="400"/>
-Northern Jacana in Guanacaste, Costa Rica. 
+Northern Jacana in Guanacaste, Costa Rica. <br>
+<br>
 <br>
 <img src="/images/Tree_Snake.jpg" alt="Tree Snake Costa Rica" style="float: right; margin-left: 10px;" height="400"/>
 <br>
-A tree snake slithering around La Selva Research Station, Costa Rica. 
+A tree snake slithering around La Selva Research Station, Costa Rica. <br>
 <br>
+<br>
+<img src="/images/White_Faced_Capuchin.jpg" alt="White Faced Capuchin Costa Rica" style="float: right; margin-left: 10px;" height="400"/>
+<br>
+White Faced Capuchin eating seeds, Costa Rica. <br>
+<br>
+<br>
+<img src="/images/Silvereye_New_Zealand.jpg" alt="Silvereye_New_Zealand" height="400"/>
+<br>
+A Silvereye (*Zosterops lateralis*) on Rangitoto Island, New Zealand. <br>
+<br>
+
 <img src="/images/Yosemite_Valley.jpg" alt="Yosemite Valley" style="float: left; margin-right: 10px;" />
 The Yosemite Valley, California.
 
