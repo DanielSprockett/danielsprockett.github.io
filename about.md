@@ -13,7 +13,6 @@ During my time at Stanford, I was the Orientation and Recruitment Chair for [SBS
 <br>
 When I am not in the lab, I also enjoy traveling, nature photography, and baking.<br>
 <br>
-<br>
 
 ***
 
@@ -37,14 +36,15 @@ Stanford, CA 94305-5124<br>
 
 <h3>Photography</h3>
 
-One day I'll get around to adding a full gallery, but for now, here is just a sample.<br>
+One day I'll get around to adding a full gallery, but for now, here are a few of my favorite shots.<br>
+<br>
 <br>
 <img src="/images/Northern_Jacana.jpg" alt="Northern Jacana"/>
 Northern Jacana (*Jacana spinosa*) in Guanacaste, Costa Rica.<br>
 <br>
 <br>
 <img src="/images/Tree_Snake.jpg" alt="Tree Snake Costa Rica"/>
-A banded cat-eyed tree snake (*Leptodeira annulata*) slithering around La Selva Research Station, Costa Rica.<br>
+A Plain Tree Snake (*Imantodes inornatus*) slithering around La Selva Research Station, Costa Rica.<br>
 <br>
 <br>
 <img src="/images/White_Faced_Capuchin.jpg" alt="White Faced Capuchin Costa Rica"/>
