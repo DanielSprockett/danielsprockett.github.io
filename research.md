@@ -9,6 +9,7 @@ category: "research"
 <br>
 I am interested in how host-associated communities arise in early life, as well as the ecological processes that shape them as they develop towards a stable, adult-like configuration.<br>
 <br>
+
 ***
 
 <h2>Assembly of the Tsimane Microbiome</h2>
