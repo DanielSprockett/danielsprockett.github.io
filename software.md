@@ -23,7 +23,7 @@ You can check it out [here](https://danielsprockett.github.io/mherit/).
 
 <h3><code>tyRa</code> - Build Models</h3>
 
-[<code>tyRa</code>](https://github.com/DanielSprockett/tyRa) is an R package I made to better handle the sample data that is often used to model systems in the microbiome. Current there is only one model and some plotting functions available, but many more are planned. Feel free to make suggestions. 
+[<code>tyRa</code>](https://github.com/DanielSprockett/tyRa) is an R package I made to streamline modeling complex systems in the microbiome. Currently there is only one model and some plotting functions available, but many more are planned. Feel free to make suggestions. 
 
 Learn more [here](https://danielsprockett.github.io/tyRa/).
 
