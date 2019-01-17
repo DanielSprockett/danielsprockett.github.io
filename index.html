@@ -81,7 +81,6 @@ layout: default
 <hr>
 <br>
 
-<h2>RECENT POSTS:</h2>
   {% for post in paginator.posts%}
   <div class="post postContent">
     <div  class="postDate"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time>
