@@ -7,7 +7,6 @@ category: "research"
 
 ![microbiome maturation](/images/microbiome_maturation.png)
 <br>
-I am interested in how host-associated communities arise in early life, as well as the ecological processes that shape them as they develop towards a stable, adult-like configuration.<br>
 <br>
 
 ***
