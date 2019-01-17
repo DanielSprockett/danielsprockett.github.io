@@ -12,20 +12,23 @@ I am interested in how host-associated communities arise in early life, as well 
 
 ***
 
-<h2>Assembly of the Tsimane Microbiome</h2>
+<h2>Assembly of the Infant Microbiome</h2>
+<br>
+The goals of this project include improving our understanding of how you are colonized by microbes at birth, as well as the ecological and evolutionary forces that shape those communities at different body sites until they reach a stable, resilient, adult-like community.  
 <br>
 <br>
 
 ***
 
-<h2>Heritable features in the Salivary Microbiome</h2>
+<h2>Heritable Features in the Salivary Microbiome</h2>
+<br>
+Through a collaboration with the Department of Twins Research at King's College, London, I am identifying heritible features of the salivary microbiome.   
 <br>
 <br>
 
 ***
 
 <h2>The Microbiome in Very Early-Onset Inflammatory Bowel Disease</h2>
-<br>
 <br>
 Very Early-Onset Inflammatory Bowel Disease (VEO-IBD) is chronic and recurrent inflammation of the gastrointestinal tract diagnosed in children under the age of 6.<br>
 <br>
