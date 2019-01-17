@@ -9,7 +9,7 @@ permalink: /about/
 <img src="/images/Dan_at_Grand_Canyon.jpg" alt="Dan at the Grand Canyon" style="float: left; margin-right: 10px;" height="350"/>
 I am PhD Candidate in [David Relman's Lab](http://med.stanford.edu/relmanlab.html) at Stanford University. My research interests include understanding assembly processes in host-associated microbial communities and host-microbe co-evolution. I also enjoy learning new, dynamic data visualization techniques in R, and promoting ways to make scientific research more reproducible and transparent.  If you have any questions, please read on or contact me below.<br>
 <br>
-During my time at Stanford, I was the Orientation and Recruitment Chair for [SBSA](http://med.stanford.edu/sbsa.html), served on my the M&I Department's Graduate Admissions Committee, and co-organized The Stanford Center for Human Microbiome Studies's [Microbiome Summit](https://iti.stanford.edu/center-for-human-microbiome-studies/microbiome-summit.html). For more information, please download my [CV](/documents/Sprockett_CV_190108.pdf).<br>
+During my time at Stanford, I was the Orientation and Recruitment Chair for [SBSA](http://med.stanford.edu/sbsa.html), served on my the M&I Department's Graduate Admissions Committee, and co-organized The Stanford Center for Human Microbiome Studies's [Microbiome Summit](https://iti.stanford.edu/center-for-human-microbiome-studies/microbiome-summit.html). For more details, check out my [CV](/documents/Sprockett_CV_190108.pdf).<br>
 <br>
 When I am not in the lab, I also enjoy traveling, nature photography, and baking.<br>
 <br>
