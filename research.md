@@ -14,7 +14,7 @@ I am interested in how host-associated communities arise in early life, as well 
 
 <h2>Assembly of the Infant Microbiome</h2>
 <br>
-The goals of this project include improving our understanding of how you are colonized by microbes at birth, as well as the ecological and evolutionary forces that shape those communities at different body sites until they reach a stable, resilient, adult-like community.  
+The goals of this project include improving our understanding of the microbes that colonize infants at birth, as well as the ecological and evolutionary forces that shape those communities as they mature into stable, resilient communities later in life.  
 <br>
 <br>
 
