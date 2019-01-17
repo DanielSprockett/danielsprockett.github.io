@@ -1,10 +1,10 @@
----
-layout: post
-title:  "mherit R Package"
-date:   2018-12-17
-categories: ["science", "microbiome", "R"]
-author: "Dan"
----
+#---
+#layout: post
+#title:  "mherit R Package"
+#date:   2018-12-17
+#categories: ["science", "microbiome", "R"]
+#author: "Dan"
+#---
 
 I'm currently developing an R package called [<code>mherit</code>](https://danielsprockett.github.io/mherit/), which will facilitate calculating the heritability of 16S rRNA amplicon datasets.  
 
