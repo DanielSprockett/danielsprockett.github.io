@@ -21,7 +21,7 @@ The goals of this project include improving our understanding of the microbes th
 
 <h2>Heritable Features in the Salivary Microbiome</h2>
 <br>
-Through a collaboration with the Department of Twins Research at King's College, London, I am identifying heritible features of the salivary microbiome.   
+Through a collaboration with the [Department of Twins Research](http://twinsuk.ac.uk/) at King's College, London, I am identifying heritible features of the salivary microbiome.   
 <br>
 <br>
 
