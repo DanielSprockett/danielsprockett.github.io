@@ -7,7 +7,7 @@ permalink: /about/
 <h2>Daniel Sprockett</h2>
 
 <img src="/images/Dan_at_Grand_Canyon.jpg" alt="Dan at the Grand Canyon" style="float: left; margin-right: 10px;" height="350"/>
-I am PhD Candidate in [David Relman's Lab](http://med.stanford.edu/relmanlab.html) at Stanford University. I completed my master's thesis on the evolution of glycosyl hydrolases in [Chris Blackwood's lab](http://drosophila.biology.kent.edu/users/cblackwo/overview.htm), where I was co-advised by Helen Piontkivska. My current research interests include understanding assembly processes in host-associated microbial communities and host-microbe co-evolution. I also enjoy learning new, dynamic data visualization techniques in R, and promoting ways to make scientific research more reproducible and transparent.  If you have any questions, please read on or contact me below.<br>
+I am PhD Candidate in [David Relman's Lab](http://med.stanford.edu/relmanlab.html) at Stanford University. Before coming to Stanford, I completed my master's thesis on the evolution of glycosyl hydrolases in [Chris Blackwood's lab](http://drosophila.biology.kent.edu/users/cblackwo/overview.htm), and then worked in the Department of Dermatology at Case Western Reserve University investigating the microbiome of chronic wounds. My current research interests include understanding assembly processes in host-associated microbial communities and host-microbe co-evolution. I also enjoy learning new, dynamic data visualization techniques in R, and promoting ways to make scientific research more reproducible and transparent.  If you have any questions, please read on or contact me below.<br>
 <br>
 During my time at Stanford, I was the Orientation and Recruitment Chair for [SBSA](http://med.stanford.edu/sbsa.html), served on my the M&I Department's Graduate Admissions Committee, and co-organized The Stanford Center for Human Microbiome Studies's [Microbiome Summit](https://iti.stanford.edu/center-for-human-microbiome-studies/microbiome-summit.html). For more details, check out my [CV](/documents/Sprockett_CV_190108.pdf).<br>
 <br>
@@ -18,7 +18,8 @@ When I am not in the lab, I also enjoy traveling, nature photography, and baking
 
 <h3>Contact</h3>
 <br>
-[Dan's Public Stanford Profile](https://profiles.stanford.edu/daniel-sprockett)
+[Stanford Profile](https://profiles.stanford.edu/daniel-sprockett) <br>
+[Google Scholar](https://scholar.google.com/citations?user=2kfaOjwAAAAJ&hl=en) <br>
 <br>
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-2620-7555" href="https://orcid.org/0000-0003-2620-7555" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0003-2620-7555</a></div>
 <br>
