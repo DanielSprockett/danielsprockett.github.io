@@ -18,8 +18,9 @@ When I am not in the lab, I also enjoy traveling, nature photography, and baking
 
 <h3>Contact</h3>
 <br>
-[Stanford Profile](https://profiles.stanford.edu/daniel-sprockett){: .btn} <br>
-[Google Scholar](https://scholar.google.com/citations?user=2kfaOjwAAAAJ&hl=en){: .btn} <br>
+[Stanford Profile](https://profiles.stanford.edu/daniel-sprockett) <br>
+[Google Scholar](https://scholar.google.com/citations?user=2kfaOjwAAAAJ&hl=en) <br>
+<button name="button" onclick="http://www.google.com">Click me</button>
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-2620-7555" href="https://orcid.org/0000-0003-2620-7555" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0003-2620-7555</a></div>
 <br>
 E-MAIL: <br>
