@@ -11,6 +11,20 @@ category: "publications"
 [<font size="5">
     <i>
     <b>
+      Strategies for understanding dynamic, personalized profiles of host-derived proteins and microbes from human stool.
+    </b>
+    </i>
+</font>](https://www.biorxiv.org/content/10.1101/551143v1)
+<font size="3">
+Ellen Pun Casavant, Les Dethlefsen, Kris Sankaran, <b>Daniel Sprockett</b>, Susan Holmes, David A Relman, Joshua Elias (2019) 
+Available on <i>bioRxiv</i>.
+</font>
+<br>
+
+<br>
+[<font size="5">
+    <i>
+    <b>
       Treatment-Specific Composition of Gut Microbiota Is Associated with Disease Remission in a Pediatric Crohn's Disease Cohort.
     </b>
     </i>
