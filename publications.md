@@ -17,7 +17,7 @@ category: "publications"
 </font>](https://www.biorxiv.org/content/10.1101/551143v1)
 <font size="3">
 Ellen Pun Casavant, Les Dethlefsen, Kris Sankaran, <b>Daniel Sprockett</b>, Susan Holmes, David A Relman, Joshua Elias (2019) 
-Available on <i>bioRxiv</i>.
+Submitted. Available on <i>bioRxiv</i>.
 </font>
 <br>
 
@@ -34,7 +34,7 @@ Available on <i>bioRxiv</i>.
     Daniel Sprockett
   </b>
   , Natalie Fischer, Rotem Sigall Boneh, Dan Turner, Jarek Kierkus, Malgorzata Sladek, Johanna Escher, Eytan Wine, Baruch Yerushalmi, Jorge Amil Dias, Ron Shaoul, Michal Kori, Scott Snapper, Susan Holmes, Athos Bousvaros, Arie Levine, David A. Relman (2018) 
-Available on <i>bioRxiv</i>.
+Submitted. Available on <i>bioRxiv</i>.
 </font>
 <br>
 
