@@ -8,7 +8,7 @@
 # Site settings
 title: Daniel Sprockett
 email: daniel.sprockett@gmail.com
-description: Research Fellow at Harvard Medical School
+description: Research Fellow at Boston Children's Hosptial & Harvard Medical School
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://danielsprockett.github.io/" # the base hostname & protocol for your site
 twitter_username: danielsprockett
