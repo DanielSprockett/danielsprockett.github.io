@@ -15,6 +15,20 @@ category: "research"
 <br>
 The goals of this project include improving our understanding of the microbes that colonize infants at birth, as well as the ecological and evolutionary forces that shape those communities as they mature into stable, resilient communities later in life.  
 <br>
+Read the preprint on bioRxiv:
+<br>
+<b>
+[
+Microbiota Assembly, Structure, and Dynamics Among Tsimane Horticulturalists of the Bolivian Amazon.
+</b>
+](https://www.biorxiv.org/content/10.1101/779074v1.full)
+<font size="3">
+<b>Daniel D. Sprockett</b>, Melanie Martin, Elizabeth K. Costello, Adam Burns, Susan P. Holmes, Michael Gurven, David A. Relman (2019) 
+Submitted. Available on <i>bioRxiv</i>.
+</font>
+<br>
+
+<br>
 <br>
 
 ***
