@@ -13,7 +13,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://danielsprockett.github.io/" # the base hostname & protocol for your site
 twitter_username: danielsprockett
 github_username:  danielsprockett
-instagram_username:  GradSchoolDad
+instagram_username:  post_doc_dad
 paginate: 5
 theme-dark: false #Set to true to change to dark website theme
 
