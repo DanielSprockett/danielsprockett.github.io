@@ -17,7 +17,7 @@ The goals of this project include improving our understanding of the microbes th
 <br>
 Read the preprint on bioRxiv:
 <br>
-[Microbiota Assembly, Structure, and Dynamics Among Tsimane Horticulturalists of the Bolivian Amazon.](https://www.biorxiv.org/content/10.1101/779074v1.full) <b>Daniel D. Sprockett</b>, Melanie Martin, Elizabeth K. Costello, Adam Burns, Susan P. Holmes, Michael Gurven, David A. Relman (2019) Submitted. 
+[Microbiota Assembly, Structure, and Dynamics Among Tsimane Horticulturalists of the Bolivian Amazon.](https://www.biorxiv.org/content/10.1101/779074v1.full) Daniel D. Sprockett, Melanie Martin, Elizabeth K. Costello, Adam Burns, Susan P. Holmes, Michael Gurven, David A. Relman (2019) <i>Submitted.</i> 
 <br>
 <br>
 
