@@ -7,6 +7,21 @@ category: "publications"
 
 <h1>Peer-Reviewed Manuscripts</h1>
 ***
+
+<br>
+[<font size="5">
+    <i>
+    <b>
+      Microbiota Assembly, Structure, and Dynamics Among Tsimane Horticulturalists of the Bolivian Amazon.
+    </b>
+    </i>
+</font>](https://www.biorxiv.org/content/10.1101/779074v1.full)
+<font size="3">
+<b>Daniel D. Sprockett</b>, Melanie Martin, Elizabeth K. Costello, Adam Burns, Susan P. Holmes, Michael Gurven, David A. Relman (2019) 
+Submitted. Available on <i>bioRxiv</i>.
+</font>
+<br>
+
 <br>
 [<font size="5">
     <i>
