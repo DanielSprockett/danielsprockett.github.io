@@ -43,13 +43,14 @@ Submitted. Available on <i>bioRxiv</i>.
       Treatment-Specific Composition of Gut Microbiota Is Associated with Disease Remission in a Pediatric Crohn's Disease Cohort.
     </b>
     </i>
-</font>](https://www.biorxiv.org/content/early/2018/09/10/412890)
+</font>](https://academic.oup.com/ibdjournal/article/25/12/1927/5528593)
 <font size="3">
   <b>
     Daniel Sprockett
   </b>
-  , Natalie Fischer, Rotem Sigall Boneh, Dan Turner, Jarek Kierkus, Malgorzata Sladek, Johanna Escher, Eytan Wine, Baruch Yerushalmi, Jorge Amil Dias, Ron Shaoul, Michal Kori, Scott Snapper, Susan Holmes, Athos Bousvaros, Arie Levine, David A. Relman (2018) 
-Submitted. Available on <i>bioRxiv</i>.
+  , Natalie Fischer, Rotem Sigall Boneh, Dan Turner, Jarek Kierkus, Malgorzata Sladek, Johanna Escher, Eytan Wine, Baruch Yerushalmi, Jorge Amil Dias, Ron Shaoul, Michal Kori, Scott Snapper, Susan Holmes, Athos Bousvaros, Arie Levine, David A. Relman (2019) 
+<i>Inflammatory Bowel Diseases</i>
+   25(12): 1927–1938.
 </font>
 <br>
 
