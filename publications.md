@@ -49,7 +49,9 @@ Submitted. Available on <i>bioRxiv</i>.
     Daniel Sprockett
   </b>
   , Natalie Fischer, Rotem Sigall Boneh, Dan Turner, Jarek Kierkus, Malgorzata Sladek, Johanna Escher, Eytan Wine, Baruch Yerushalmi, Jorge Amil Dias, Ron Shaoul, Michal Kori, Scott Snapper, Susan Holmes, Athos Bousvaros, Arie Levine, David A. Relman (2019) 
-<i>Inflammatory Bowel Diseases</i>
+<i>
+    Inflamm Bowel Dis.
+</i>
    25(12): 1927–1938.
 </font>
 <br>
