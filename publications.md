@@ -18,7 +18,7 @@ category: "publications"
 </font>](https://www.biorxiv.org/content/10.1101/779074v1.full)
 <font size="3">
 <b>Daniel D. Sprockett</b>, Melanie Martin, Elizabeth K. Costello, Adam Burns, Susan P. Holmes, Michael Gurven, David A. Relman (2020) 
-Accepted at <i>Nature Communications</i>. Currently available on <i>bioRxiv</i>.
+Accepted for publication at <i>Nature Communications</i>.
 </font>
 <br>
 
