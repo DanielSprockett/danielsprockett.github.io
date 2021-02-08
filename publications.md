@@ -21,7 +21,7 @@ category: "publications"
 <i>
     Curr Biol.
     </i>
-    31(3):PR124-R126.
+     31(3):PR124-R126.
 </font>
 <br>
 
@@ -38,7 +38,7 @@ category: "publications"
 <i>
     Nat Commun.
     </i>
-    11, 3772.
+     11, 3772.
 </font>
 <br>
 
