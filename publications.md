@@ -12,13 +12,33 @@ category: "publications"
 [<font size="5">
     <i>
     <b>
+      Microbiomes: Infant Chimps Crawling with Bacteria.
+    </b>
+    </i>
+</font>](https://www.cell.com/current-biology/fulltext/S0960-9822(20)31757-7)
+<font size="3">
+<b>Daniel D. Sprockett</b> and Andrew H. Moeller (2021) 
+<i>
+    Curr Biol.
+    </i>
+    31(3):PR124-R126.
+</font>
+<br>
+
+<br>
+[<font size="5">
+    <i>
+    <b>
       Microbiota Assembly, Structure, and Dynamics Among Tsimane Horticulturalists of the Bolivian Amazon.
     </b>
     </i>
-</font>](https://www.biorxiv.org/content/10.1101/779074v1.full)
+</font>](https://www.nature.com/articles/s41467-020-17541-6)
 <font size="3">
 <b>Daniel D. Sprockett</b>, Melanie Martin, Elizabeth K. Costello, Adam Burns, Susan P. Holmes, Michael Gurven, David A. Relman (2020) 
-Accepted for publication at <i>Nature Communications</i>.
+<i>
+    Nat Commun.
+    </i>
+    11, 3772.
 </font>
 <br>
 
