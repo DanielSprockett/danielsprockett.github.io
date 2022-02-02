@@ -12,6 +12,32 @@ category: "publications"
 [<font size="5">
     <i>
     <b>
+      Host Genotype Links to Salivary and Gut Microbiota by Periodontal Status.
+    </b>
+    </i>
+</font>]
+<font size="3">
+Yuko Kurushima, Phillpa Wells, Ruth Bowyer, Noha Zoheir, Stephan Doran, Jonathan Richardson, <b>Daniel D. Sprockett</b>, David Relman, Claire Steves, and Luigi Nibali (2022) Submitted.
+</font>
+<br>
+
+<br>
+[<font size="5">
+    <i>
+    <b>
+      Influential factors of saliva microbiota composition.
+    </b>
+    </i>
+</font>](https://www.biorxiv.org/content/10.1101/2021.12.22.473816v1)
+<font size="3">
+Philippa M. Wells, <b>Daniel D. Sprockett</b>, Ruth C E Bowyer, Yuko Kurushima,  David A. Relman, Frances M.K. Williams, and Claire J. Steves (2021) Submitted. Available on <i>bioRxiv</i>.
+</font>
+<br>
+
+<br>
+[<font size="5">
+    <i>
+    <b>
       Microbiomes: Infant Chimps Crawling with Bacteria.
     </b>
     </i>
