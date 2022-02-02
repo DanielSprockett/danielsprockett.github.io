@@ -9,13 +9,13 @@ category: "publications"
 ***
 
 <br>
-[<font size="5">
+<font size="5">
     <i>
     <b>
       Host Genotype Links to Salivary and Gut Microbiota by Periodontal Status.
     </b>
     </i>
-</font>]
+</font>
 <font size="3">
 Yuko Kurushima, Phillpa Wells, Ruth Bowyer, Noha Zoheir, Stephan Doran, Jonathan Richardson, <b>Daniel D. Sprockett</b>, David Relman, Claire Steves, and Luigi Nibali (2022) Submitted.
 </font>
