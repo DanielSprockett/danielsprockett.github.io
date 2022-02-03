@@ -17,7 +17,7 @@ category: "publications"
     </i>
 </font>
 <font size="3">
-    Yuko Kurushima, Phillpa Wells, Ruth Bowyer, Noha Zoheir, Stephan Doran, Jonathan Richardson, <b>Daniel D. Sprockett</b>, David Relman, Claire Steves, and Luigi Nibali (2022) Submitted.
+    Yuko Kurushima, Phillpa Wells, Ruth Bowyer, Noha Zoheir, Stephan Doran, Jonathan Richardson, <b>Daniel D. Sprockett</b>, David Relman, Claire Steves, and Luigi Nibali (2022) <i>Under Review</i>.
 </font>
 <br>
 
