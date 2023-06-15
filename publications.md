@@ -293,12 +293,57 @@ Yuko Kurushima, Phillipa Wells, Ruth Bowyer, Noha Zoheir, Stephan Doran, Jonatha
       Convergent remodeling of the gut microbiome is associated with host energetic condition over long-distance migration.
     </b>
     </i>
-</font>](https://www.science.org/doi/10.1126/sciadv.adf5499)
+</font>](https://doi.org/10.1101/2022.11.30.518533)
 <font size="3">
 Brian K. Trevelline, <b>Daniel D. Sprockett</b> William V. DeLuca, Catherine R. Andreadis, Andrew H. Moeller, and Christopher Tonra (2023) 
-Available on [<i>
+Available on <i>
     bioRxiv
-    </i>](https://doi.org/10.1101/2022.11.30.518533)
+    </i>
+</font>
+<br>
+
+<br>
+[<font size="5">
+    <i>
+    <b>
+      Comparing spatial and social structure of C57BL/6J and wild house mice under field conditions.
+    </b>
+    </i>
+</font>](https://doi.org/10.1101/2022.04.19.488643)
+<font size="3">
+Caleb C. Vogt, Matthew N. Zipple, <b>Daniel D. Sprockett</b> Caitlin H. Miller, Summer H. Hardy, Matthew Arthur, Adam M. Greenstein, Melanie Colvin, Andrew H. Moeller, and Michael J. Sheehan (2023) 
+Available on <i>
+    bioRxiv
+    </i>
+</font>
+<br>
+
+<br>
+<font size="5">
+    <i>
+    <b>
+      Comparing spatial and social structure of C57BL/6J and wild house mice under field conditions.
+    </b>
+    </i>
+</font>
+<font size="3">
+Andrew H. Moeller, Jon G. Sanders, <b>Daniel D. Sprockett</b>, and Abigail Landers (2023) 
+</font>
+<br>
+
+<br>
+[<font size="5">
+    <i>
+    <b>
+      Strategies for understanding dynamic, personalized profiles of host-derived proteins and microbes from human stool.
+    </b>
+    </i>
+</font>](https://doi.org/10.1101/551143)
+<font size="3">
+Casavant, Ellen, Les Dethlefsen, Kris Sankaran, <b>Daniel D. Sprockett</b> Susan Holmes, David Relman, and Joshua Elias (2023) 
+Available on <i>
+    bioRxiv
+    </i>
 </font>
 <br>
 
