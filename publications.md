@@ -283,6 +283,24 @@ Yuko Kurushima, Phillipa Wells, Ruth Bowyer, Noha Zoheir, Stephan Doran, Jonatha
 </font>
 <br>
 
+<h1>Manuscripts Currently Under Peer-Review</h1>
+***
+
+<br>
+[<font size="5">
+    <i>
+    <b>
+      Convergent remodeling of the gut microbiome is associated with host energetic condition over long-distance migration.
+    </b>
+    </i>
+</font>](https://www.science.org/doi/10.1126/sciadv.adf5499)
+<font size="3">
+Brian K. Trevelline, <b>Daniel D. Sprockett</b> William V. DeLuca, Catherine R. Andreadis, Andrew H. Moeller, and Christopher Tonra (2023) 
+Available on [<i>
+    bioRxiv
+    </i>](https://doi.org/10.1101/2022.11.30.518533)
+</font>
+<br>
 
 <h1>Scientific Writing for the General Public</h1>
 ***
