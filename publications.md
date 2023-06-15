@@ -322,9 +322,10 @@ Available on <i>
 <font size="5">
     <i>
     <b>
-      Comparing spatial and social structure of C57BL/6J and wild house mice under field conditions.
+      Assessing co-diversification in host-associated microbiomes.
     </b>
     </i>
+    <br>
 </font>
 <font size="3">
 Andrew H. Moeller, Jon G. Sanders, <b>Daniel D. Sprockett</b>, and Abigail Landers (2023) 
