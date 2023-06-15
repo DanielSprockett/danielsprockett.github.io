@@ -9,15 +9,36 @@ category: "publications"
 ***
 
 <br>
-<font size="5">
+[<font size="5">
     <i>
     <b>
-      Host Genotype Links to Salivary and Gut Microbiota by Periodontal Status.
+      Home-site advantage for host species–specific gut microbiota.
     </b>
     </i>
-</font>
+</font>](https://www.science.org/doi/10.1126/sciadv.adf5499)
 <font size="3">
-    Yuko Kurushima, Phillpa Wells, Ruth Bowyer, Noha Zoheir, Stephan Doran, Jonathan Richardson, <b>Daniel D. Sprockett</b>, David Relman, Claire Steves, and Luigi Nibali (2022) <i>Under Review</i>.
+<b>Daniel D. Sprockett</b> Jeffrey D. Price, Anthony F. Juritsch, Robert J. Schmaltz, Madalena Vaz Ferreira Real, Samantha Goldman, Michael Sheehan, Amanda Ramer-Tait, and Andrew H. Moeller (2023) 
+<i>
+    Sci. Adv.
+    </i>
+     9 (19).
+</font>
+<br>
+
+<br>
+[<font size="5">
+    <i>
+    <b>
+      Widespread extinctions of co-diversified gut bacterial lineages from humans.
+    </b>
+    </i>
+</font>](https://www.nature.com/articles/s41564-023-01388-w)
+<font size="3">
+Jon G. Sanders, <b>Daniel D. Sprockett</b> Yingying Li, Deus Mjungu, Elizabeth V. Lonsdorf, Jean-Bosco N. Ndjango, Alexander V. Georgiev, John A. Hart, Crickette M. Sanz, David B. Morgan, Martine Peeters, Beatrice H. Hahn, and Andrew H. Moeller (2023) 
+<i>
+    Nat. Microbiol.
+    </i>
+     8, 1039-1050. 
 </font>
 <br>
 
@@ -28,9 +49,30 @@ category: "publications"
       Influential factors of saliva microbiota composition.
     </b>
     </i>
-</font>](https://www.biorxiv.org/content/10.1101/2021.12.22.473816v1)
+</font>](https://www.nature.com/articles/s41598-022-23266-x)
 <font size="3">
-Philippa M. Wells, <b>Daniel D. Sprockett</b>, Ruth C E Bowyer, Yuko Kurushima,  David A. Relman, Frances M.K. Williams, and Claire J. Steves (2021) Submitted. Available on <i>bioRxiv</i>.
+Philippa M. Wells, <b>Daniel D. Sprockett</b> Ruth C. E. Bowyer, Yuko Kurushima, David A. Relman, Frances M.K. Williams, and Claire J. Steves (2022) 
+<i>
+    Sci/ Rep.
+    </i>
+     12:18894.  
+</font>
+<br>
+
+<br>
+[<font size="5">
+    <i>
+    <b>
+      Host Genotype Links to Salivary and Gut Microbiota by Periodontal Status.
+    </b>
+    </i>
+</font>](https://journals.sagepub.com/doi/10.1177/00220345221125402)
+<font size="3">
+Yuko Kurushima, Phillipa Wells, Ruth Bowyer, Noha Zoheir, Stephan Doran, Jonathan Richardson, <b>Daniel D. Sprockett</b> David Relman, Claire Steves, and Luigi Nibali (2022) 
+<i>
+    J. Dental Res. 
+    </i>
+     1-11.
 </font>
 <br>
 
@@ -45,7 +87,7 @@ Philippa M. Wells, <b>Daniel D. Sprockett</b>, Ruth C E Bowyer, Yuko Kurushima, 
 <font size="3">
 <b>Daniel D. Sprockett</b> and Andrew H. Moeller (2021) 
 <i>
-    Curr Biol.
+    Curr. Biol.
     </i>
      31(3):PR124-R126.
 </font>
@@ -62,23 +104,9 @@ Philippa M. Wells, <b>Daniel D. Sprockett</b>, Ruth C E Bowyer, Yuko Kurushima, 
 <font size="3">
 <b>Daniel D. Sprockett</b>, Melanie Martin, Elizabeth K. Costello, Adam Burns, Susan P. Holmes, Michael Gurven, David A. Relman (2020) 
 <i>
-    Nat Commun.
+    Nat. Commun.
     </i>
      11, 3772.
-</font>
-<br>
-
-<br>
-[<font size="5">
-    <i>
-    <b>
-      Strategies for understanding dynamic, personalized profiles of host-derived proteins and microbes from human stool.
-    </b>
-    </i>
-</font>](https://www.biorxiv.org/content/10.1101/551143v1)
-<font size="3">
-Ellen Pun Casavant, Les Dethlefsen, Kris Sankaran, <b>Daniel Sprockett</b>, Susan Holmes, David A Relman, Joshua Elias (2019) 
-Submitted. Available on <i>bioRxiv</i>.
 </font>
 <br>
 
@@ -96,7 +124,7 @@ Submitted. Available on <i>bioRxiv</i>.
   </b>
   , Natalie Fischer, Rotem Sigall Boneh, Dan Turner, Jarek Kierkus, Malgorzata Sladek, Johanna Escher, Eytan Wine, Baruch Yerushalmi, Jorge Amil Dias, Ron Shaoul, Michal Kori, Scott Snapper, Susan Holmes, Athos Bousvaros, Arie Levine, David A. Relman (2019) 
 <i>
-    Inflamm Bowel Dis.
+    Inflamm. Bowel Dis.
 </i>
    25(12): 1927–1938.
 </font>
@@ -116,7 +144,7 @@ Submitted. Available on <i>bioRxiv</i>.
   </b>
   , Tadashi Fukami, and David Relman (2018)
   <i>
-    Nat Rev Gastroenterol Hepatol. <br/>  
+    Nat. Rev. Gastroenterol. Hepatol. <br/>  
   </i>
  </font>
 <font size="4"> 
@@ -146,7 +174,7 @@ Submitted. Available on <i>bioRxiv</i>.
   </b>
   , Yolandas Thomason, Margaret W. Mann, Pingfu Fu, Christine Ammons, Meg Gerstenblith, Marie S. Tuttle, and Daniel L. Popkin (2018)
   <i>
-    Exp Dermatol. 
+    Exp. Dermatol. 
   </i>
   27(3): 295-298.
 </font>
@@ -167,7 +195,7 @@ Submitted. Available on <i>bioRxiv</i>.
   </b>
   , Bess Heidenreich, and Christopher B.Blackwood (2016)
   <i>
-    J Microbiol Methods. 
+    J. Microbiol. Methods. 
   </i>
   123:108-113.
 </font>
@@ -182,11 +210,11 @@ Submitted. Available on <i>bioRxiv</i>.
     </i>
 </font>](https://www.nature.com/articles/ismej2015187/)
 <font size="3">
-  Joshua S Lichtman, Emily Alsentzer, Mia Jaffe, 
+  Joshua S. Lichtman, Emily Alsentzer, Mia Jaffe, 
   <b>
     Daniel Sprockett
   </b>
-  , Evan Masutani, Elvis Ikwa, Gabriela K Fragiadakis, David Clifford, Bevan Emma Huang, Justin L Sonnenburg, Kerwyn Casey Huang, and Joshua E Elias (2015)
+  , Evan Masutani, Elvis Ikwa, Gabriela K. Fragiadakis, David Clifford, Bevan Emma Huang, Justin L. Sonnenburg, Kerwyn Casey Huang, and Joshua E. Elias (2015)
   <i>
     ISME J. 
   </i>
@@ -249,7 +277,7 @@ Submitted. Available on <i>bioRxiv</i>.
   </b>
   , and Volodymyr Dvornyk (2010)
   <i>
-    J Mol Evol. 
+    J. Mol. Evol. 
   </i>
   70(5): 453-465.
 </font>
