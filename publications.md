@@ -5,8 +5,27 @@ permalink: /publications/
 category: "publications"
 ---
 
-<h1>Peer-Reviewed Manuscripts</h1>
+<h1>Select Manuscripts</h1>
 ***
+
+You can find my complete list of publications [here](https://scholar.google.com/citations?user=2kfaOjwAAAAJ&hl=en). 
+
+<br>
+[<font size="5">
+    <i>
+    <b>
+      Recent genetic drift in the co-diversified gut bacterial symbionts of laboratory mice.
+    </b>
+    </i>
+</font>]([https://www.science.org/doi/10.1126/sciadv.adf5499](https://www.nature.com/articles/s41467-025-57435-z))
+<font size="3">
+<b>Daniel D. Sprockett</b> Brian A. Dillard, Abigail A. Landers, Jon G. Sanders & Andrew H. Moeller (2025) 
+<i>
+    Nat. Commun.
+    </i>
+     16 (2218).
+</font>
+<br>
 
 <br>
 [<font size="5">
@@ -39,57 +58,6 @@ Jon G. Sanders, <b>Daniel D. Sprockett</b> Yingying Li, Deus Mjungu, Elizabeth V
     Nat. Microbiol.
     </i>
      8, 1039-1050. 
-</font>
-<br>
-
-<br>
-[<font size="5">
-    <i>
-    <b>
-      Influential factors of saliva microbiota composition.
-    </b>
-    </i>
-</font>](https://www.nature.com/articles/s41598-022-23266-x)
-<font size="3">
-Philippa M. Wells, <b>Daniel D. Sprockett</b> Ruth C. E. Bowyer, Yuko Kurushima, David A. Relman, Frances M.K. Williams, and Claire J. Steves (2022) 
-<i>
-    Sci/ Rep.
-    </i>
-     12:18894.  
-</font>
-<br>
-
-<br>
-[<font size="5">
-    <i>
-    <b>
-      Host Genotype Links to Salivary and Gut Microbiota by Periodontal Status.
-    </b>
-    </i>
-</font>](https://journals.sagepub.com/doi/10.1177/00220345221125402)
-<font size="3">
-Yuko Kurushima, Phillipa Wells, Ruth Bowyer, Noha Zoheir, Stephan Doran, Jonathan Richardson, <b>Daniel D. Sprockett</b> David Relman, Claire Steves, and Luigi Nibali (2022) 
-<i>
-    J. Dental Res. 
-    </i>
-     1-11.
-</font>
-<br>
-
-<br>
-[<font size="5">
-    <i>
-    <b>
-      Microbiomes: Infant Chimps Crawling with Bacteria.
-    </b>
-    </i>
-</font>](https://www.cell.com/current-biology/fulltext/S0960-9822(20)31757-7)
-<font size="3">
-<b>Daniel D. Sprockett</b> and Andrew H. Moeller (2021) 
-<i>
-    Curr. Biol.
-    </i>
-     31(3):PR124-R126.
 </font>
 <br>
 
@@ -163,48 +131,6 @@ Yuko Kurushima, Phillipa Wells, Ruth Bowyer, Noha Zoheir, Stephan Doran, Jonatha
 [<font size="5">
     <i>
     <b>
-      Characterization of the facial microbiome in twins discordant for rosacea.
-    </b>
-    </i>
-</font>](https://onlinelibrary.wiley.com/doi/abs/10.1111/exd.13491)
-<font size="3">
-  Asifa K. Zaidi, Katrina Spaunhurst, 
-  <b>
-    Daniel Sprockett
-  </b>
-  , Yolandas Thomason, Margaret W. Mann, Pingfu Fu, Christine Ammons, Meg Gerstenblith, Marie S. Tuttle, and Daniel L. Popkin (2018)
-  <i>
-    Exp. Dermatol. 
-  </i>
-  27(3): 295-298.
-</font>
-<br>
-
-<br>
-[<font size="5">
-    <i>
-    <b>
-      Comparison of pectin-degrading fungal communities in temperate forests using glycosyl hydrolase family 28 pectinase primers targeting Ascomycete fungi.
-    </b>
-    </i>
-</font>](https://www.sciencedirect.com/science/article/pii/S0167701216300306)
-<font size="3">
-  Matthew D. Gacura, 
-  <b>
-    Daniel D. Sprockett
-  </b>
-  , Bess Heidenreich, and Christopher B.Blackwood (2016)
-  <i>
-    J. Microbiol. Methods. 
-  </i>
-  123:108-113.
-</font>
-<br>
-
-<br>
-[<font size="5">
-    <i>
-    <b>
       The effect of microbial colonization on the host proteome varies by gastrointestinal location.
     </b>
     </i>
@@ -219,26 +145,6 @@ Yuko Kurushima, Phillipa Wells, Ruth Bowyer, Noha Zoheir, Stephan Doran, Jonatha
     ISME J. 
   </i>
   10:1170-1181.
-</font>
-<br>
-
-<br>
-[<font size="5">
-    <i>
-    <b>
-      Use of 16S rRNA sequencing and quantitative PCR to correlate venous leg ulcer bacterial bioburden dynamics with wound expansion, antibiotic therapy, and healing.
-    </b>
-    </i>
-</font>](https://onlinelibrary.wiley.com/doi/abs/10.1111/wrr.12309)
-<font size="3">
-  <b>
-    Daniel Sprockett
-  </b>
-  , Christine Ammons, and Marie Tuttle (2015)
-  <i>
-    Wound Repair Regen. 
-  </i>
-  23(5): 765-771.
 </font>
 <br>
 
@@ -262,91 +168,7 @@ Yuko Kurushima, Phillipa Wells, Ruth Bowyer, Noha Zoheir, Stephan Doran, Jonatha
 </font>
 <br>
 
-<br>
-[<font size="5">
-    <i>
-    <b>
-      Circadian Input Kinases and their Homologs in Cyanobacteria: Evolutionary Constraints Versus Architectural Diversification.
-    </b>
-    </i>
-</font>](https://link.springer.com/article/10.1007/s00239-010-9344-0)
-<font size="3">
-  Ivan Baca, 
-  <b>
-    Daniel Sprockett
-  </b>
-  , and Volodymyr Dvornyk (2010)
-  <i>
-    J. Mol. Evol. 
-  </i>
-  70(5): 453-465.
-</font>
-<br>
 
-<h1>Manuscripts Currently Under Peer-Review</h1>
-***
-
-<br>
-[<font size="5">
-    <i>
-    <b>
-      Convergent remodeling of the gut microbiome is associated with host energetic condition over long-distance migration.
-    </b>
-    </i>
-</font>](https://doi.org/10.1101/2022.11.30.518533)
-<font size="3">
-Brian K. Trevelline, <b>Daniel D. Sprockett</b> William V. DeLuca, Catherine R. Andreadis, Andrew H. Moeller, and Christopher Tonra (2023) 
-Available on <i>
-    bioRxiv
-    </i>
-</font>
-<br>
-
-<br>
-[<font size="5">
-    <i>
-    <b>
-      Comparing spatial and social structure of C57BL/6J and wild house mice under field conditions.
-    </b>
-    </i>
-</font>](https://doi.org/10.1101/2022.04.19.488643)
-<font size="3">
-Caleb C. Vogt, Matthew N. Zipple, <b>Daniel D. Sprockett</b> Caitlin H. Miller, Summer H. Hardy, Matthew Arthur, Adam M. Greenstein, Melanie Colvin, Andrew H. Moeller, and Michael J. Sheehan (2023) 
-Available on <i>
-    bioRxiv
-    </i>
-</font>
-<br>
-
-<br>
-<font size="5">
-    <i>
-    <b>
-      Assessing co-diversification in host-associated microbiomes.
-    </b>
-    </i>
-    <br>
-</font>
-<font size="3">
-Andrew H. Moeller, Jon G. Sanders, <b>Daniel D. Sprockett</b>, and Abigail Landers (2023) 
-</font>
-<br>
-
-<br>
-[<font size="5">
-    <i>
-    <b>
-      Strategies for understanding dynamic, personalized profiles of host-derived proteins and microbes from human stool.
-    </b>
-    </i>
-</font>](https://doi.org/10.1101/551143)
-<font size="3">
-Casavant, Ellen, Les Dethlefsen, Kris Sankaran, <b>Daniel D. Sprockett</b> Susan Holmes, David Relman, and Joshua Elias (2023) 
-Available on <i>
-    bioRxiv
-    </i>
-</font>
-<br>
 
 <h1>Scientific Writing for the General Public</h1>
 ***
