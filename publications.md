@@ -5,7 +5,7 @@ permalink: /publications/
 category: "publications"
 ---
 
-<h1>Select Manuscripts</h1>
+<h1>Select Peer-Reviewed Manuscripts</h1>
 ***
 <br>
 You can find my complete list of publications [here](https://scholar.google.com/citations?user=2kfaOjwAAAAJ&hl=en). 
