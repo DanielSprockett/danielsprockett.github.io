@@ -17,7 +17,7 @@ You can find my complete list of publications [here](https://scholar.google.com/
       Recent genetic drift in the co-diversified gut bacterial symbionts of laboratory mice.
     </b>
     </i>
-</font>]([https://www.science.org/doi/10.1126/sciadv.adf5499](https://www.nature.com/articles/s41467-025-57435-z))
+</font>](https://www.nature.com/articles/s41467-025-57435-z)
 <font size="3">
 <b>Daniel D. Sprockett</b> Brian A. Dillard, Abigail A. Landers, Jon G. Sanders & Andrew H. Moeller (2025) 
 <i>
