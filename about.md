@@ -6,7 +6,7 @@ permalink: /about/
 
 <h2>Daniel Sprockett</h2>
 
-<img src="/images/Dan_at_Grand_Canyon.jpg" alt="Dan at the Grand Canyon" style="float: left; margin-right: 10px;" height="350"/>
+<img src="/images/Dan_at_Taughannock_Falls.png" alt="Dan at the Grand Canyon" style="float: left; margin-right: 10px;" height="350"/>
 I am a new Assistant Professor in the Department of Microbiology and Immunology at the Wake Forest University School of Medicine. My lab studies the ecology and evolution of the human gut microbiome, and how it relates to states of health and disease. 
 <br>
 <br>
