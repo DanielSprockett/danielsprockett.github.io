@@ -11,7 +11,7 @@ email: daniel.sprockett@gmail.com
 description: Assistant Professor at Wake Health
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://danielsprockett.github.io/" # the base hostname & protocol for your site
-github_username:  danielsprockett
+github_username:  SprockettLab
 paginate: 5
 theme-dark: false #Set to true to change to dark website theme
 
