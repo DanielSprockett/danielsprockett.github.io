@@ -9,7 +9,9 @@ permalink: /about/
 <img src="/images/Dan_at_Grand_Canyon.jpg" alt="Dan at the Grand Canyon" style="float: left; margin-right: 10px;" height="350"/>
 I am a new Assistant Professor in the Department of Microbiology and Immunology at the Wake Forest University School of Medicine. My lab studies the ecology and evolution of the human gut microbiome, and how it relates to states of health and disease. 
 <br>
-I was previously a Postdoctoral Fellow in the [Cornell Institute of Host-Microbe Interactions and Disease](https://cihmid.cornell.edu/) in [Andy Moeller's lab](https://www.moellerlab.com/), studying the ecological and genetic factors that impact how gut microbes are transmitted between hosts. Before Cornell, I worked on related topics as a research fellow at Boston Children's Hospital and Harvard Medical School. Prior to that, I completed my PhD in Microbiology and Immunology at Stanford University in [David Relman's Lab](http://med.stanford.edu/relmanlab.html), where I focused on understanding how host-associated microbial communities assemble in early life.  Before arriving at Stanford, I completed my master's thesis on the evolution of glycosyl hydrolases in [Chris Blackwood's lab](https://www.canr.msu.edu/people/chris-blackwood) at Kent State University, and then worked in the Department of Dermatology at Case Western Reserve University investigating the microbiome of chronic wounds. My research interests include understanding the ecology of host-associated microbial communities and host-microbe co-evolution. I also enjoy learning new, dynamic data visualization techniques in R, and promoting ways to make scientific research more reproducible and transparent.  If you have any questions, please read on or contact me below.<br>
+<br>
+I was previously a Postdoctoral Fellow in the [Cornell Institute of Host-Microbe Interactions and Disease](https://cihmid.cornell.edu/) in [Andy Moeller's lab](https://www.moellerlab.com/), studying the ecological and genetic factors that impact how gut microbes are transmitted between hosts. Before Cornell, I worked on related topics as a research fellow at Boston Children's Hospital and Harvard Medical School. Prior to that, I completed my PhD in Microbiology and Immunology at Stanford University in [David Relman's Lab](http://med.stanford.edu/relmanlab.html), where I focused on understanding how host-associated microbial communities assemble in early life.  Before arriving at Stanford, I completed my master's thesis on the evolution of glycosyl hydrolases in [Chris Blackwood's lab](https://www.canr.msu.edu/people/chris-blackwood) at Kent State University, and then worked in the Department of Dermatology at Case Western Reserve University investigating the microbiome of chronic wounds. My research interests include understanding the ecology of host-associated microbial communities and host-microbe co-evolution. I also enjoy learning new, dynamic data visualization techniques in R, and promoting ways to make scientific research more reproducible and transparent.  If you have any questions, please read on or contact me below.
+<br>
 <br>
 When I am not in the lab, I also enjoy traveling, nature photography, and baking.<br>
 <br>
@@ -22,7 +24,7 @@ When I am not in the lab, I also enjoy traveling, nature photography, and baking
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-2620-7555" href="https://orcid.org/0000-0003-2620-7555" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0003-2620-7555</a></div>
 <br>
 E-MAIL: <br>
-daniel [dot] sprockett [at] cornell [dot] edu <br>
+daniel [dot] sprockett [at] wakehealth [dot] edu <br>
 <br>
 <br>
 
